@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Radial%20Menu/RadialMenu.uss?fileID=7433441132597879392&amp;guid=47910dc197dffab498946babfbd15888&amp;type=3#RadialMenu" />
+    <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: space-around; align-items: flex-end; margin-bottom: 10px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;">
+        <MyUILibrary.RadialMenu name="RadialMenuLeft" />
+        <MyUILibrary.RadialMenu name="RadialMenuRight" />
+    </ui:VisualElement>
+</ui:UXML>

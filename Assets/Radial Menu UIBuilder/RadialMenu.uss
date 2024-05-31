@@ -1,0 +1,24 @@
+.radial-menu {
+    min-width: 26px;
+    min-height: 20px;
+    --button-color: rgb(130, 130, 130);
+    --selected-color: rgb(46, 132, 24);
+    --line-color: rgb(0, 0, 0);
+    --percentage-color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    flex-direction: row;
+    justify-content: center;
+    width: 250px;
+    height: 250px;
+}
+
+.radial-menu__label {
+    -unity-text-align: middle-left;
+    color: var(--percentage-color);
+    display: flex;
+    visibility: visible;
+    overflow: visible;
+}

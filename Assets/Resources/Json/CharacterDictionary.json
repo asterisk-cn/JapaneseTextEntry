@@ -1,0 +1,328 @@
+{
+    "characters": [
+        {
+            "character": "あ",
+            "type": "seion"
+        },
+        {
+            "character": "い",
+            "type": "seion"
+        },
+        {
+            "character": "う",
+            "type": "seion"
+        },
+        {
+            "character": "え",
+            "type": "seion"
+        },
+        {
+            "character": "お",
+            "type": "seion"
+        },
+        {
+            "character": "か",
+            "type": "seion"
+        },
+        {
+            "character": "き",
+            "type": "seion"
+        },
+        {
+            "character": "く",
+            "type": "seion"
+        },
+        {
+            "character": "け",
+            "type": "seion"
+        },
+        {
+            "character": "こ",
+            "type": "seion"
+        },
+        {
+            "character": "さ",
+            "type": "seion"
+        },
+        {
+            "character": "し",
+            "type": "seion"
+        },
+        {
+            "character": "す",
+            "type": "seion"
+        },
+        {
+            "character": "せ",
+            "type": "seion"
+        },
+        {
+            "character": "そ",
+            "type": "seion"
+        },
+        {
+            "character": "た",
+            "type": "seion"
+        },
+        {
+            "character": "ち",
+            "type": "seion"
+        },
+        {
+            "character": "つ",
+            "type": "seion"
+        },
+        {
+            "character": "て",
+            "type": "seion"
+        },
+        {
+            "character": "と",
+            "type": "seion"
+        },
+        {
+            "character": "な",
+            "type": "seion"
+        },
+        {
+            "character": "に",
+            "type": "seion"
+        },
+        {
+            "character": "ぬ",
+            "type": "seion"
+        },
+        {
+            "character": "ね",
+            "type": "seion"
+        },
+        {
+            "character": "の",
+            "type": "seion"
+        },
+        {
+            "character": "は",
+            "type": "seion"
+        },
+        {
+            "character": "ひ",
+            "type": "seion"
+        },
+        {
+            "character": "ふ",
+            "type": "seion"
+        },
+        {
+            "character": "へ",
+            "type": "seion"
+        },
+        {
+            "character": "ほ",
+            "type": "seion"
+        },
+        {
+            "character": "ま",
+            "type": "seion"
+        },
+        {
+            "character": "み",
+            "type": "seion"
+        },
+        {
+            "character": "む",
+            "type": "seion"
+        },
+        {
+            "character": "め",
+            "type": "seion"
+        },
+        {
+            "character": "も",
+            "type": "seion"
+        },
+        {
+            "character": "や",
+            "type": "seion"
+        },
+        {
+            "character": "ゆ",
+            "type": "seion"
+        },
+        {
+            "character": "よ",
+            "type": "seion"
+        },
+        {
+            "character": "ら",
+            "type": "seion"
+        },
+        {
+            "character": "り",
+            "type": "seion"
+        },
+        {
+            "character": "る",
+            "type": "seion"
+        },
+        {
+            "character": "れ",
+            "type": "seion"
+        },
+        {
+            "character": "ろ",
+            "type": "seion"
+        },
+        {
+            "character": "わ",
+            "type": "seion"
+        },
+        {
+            "character": "を",
+            "type": "seion"
+        },
+        {
+            "character": "ん",
+            "type": "seion"
+        },
+        {
+            "character": "が",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぎ",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぐ",
+            "type": "dakuon"
+        },
+        {
+            "character": "げ",
+            "type": "dakuon"
+        },
+        {
+            "character": "ご",
+            "type": "dakuon"
+        },
+        {
+            "character": "ざ",
+            "type": "dakuon"
+        },
+        {
+            "character": "じ",
+            "type": "dakuon"
+        },
+        {
+            "character": "ず",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぜ",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぞ",
+            "type": "dakuon"
+        },
+        {
+            "character": "だ",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぢ",
+            "type": "dakuon"
+        },
+        {
+            "character": "づ",
+            "type": "dakuon"
+        },
+        {
+            "character": "で",
+            "type": "dakuon"
+        },
+        {
+            "character": "ど",
+            "type": "dakuon"
+        },
+        {
+            "character": "ば",
+            "type": "dakuon"
+        },
+        {
+            "character": "び",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぶ",
+            "type": "dakuon"
+        },
+        {
+            "character": "べ",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぼ",
+            "type": "dakuon"
+        },
+        {
+            "character": "ぱ",
+            "type": "handakuon"
+        },
+        {
+            "character": "ぴ",
+            "type": "handakuon"
+        },
+        {
+            "character": "ぷ",
+            "type": "handakuon"
+        },
+        {
+            "character": "ぺ",
+            "type": "handakuon"
+        },
+        {
+            "character": "ぽ",
+            "type": "handakuon"
+        },
+        {
+            "character": "ぁ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ぃ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ぅ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ぇ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ぉ",
+            "type": "sutegana"
+        },
+        {
+            "character": "っ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ゃ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ゅ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ょ",
+            "type": "sutegana"
+        },
+        {
+            "character": "ー",
+            "type": "seion"
+        }
+    ]
+}

@@ -1,0 +1,5004 @@
+{
+    "phrases": [
+        {
+            "rank": 1792,
+            "IForm": "つとめる",
+            "lemma": "勤める"
+        },
+        {
+            "rank": 1457,
+            "IForm": "かえす",
+            "lemma": "返す"
+        },
+        {
+            "rank": 358,
+            "IForm": "たいしょう",
+            "lemma": "対象"
+        },
+        {
+            "rank": 1540,
+            "IForm": "こーす",
+            "lemma": "コース"
+        },
+        {
+            "rank": 149,
+            "IForm": "こども",
+            "lemma": "子供"
+        },
+        {
+            "rank": 604,
+            "IForm": "かかく",
+            "lemma": "価格"
+        },
+        {
+            "rank": 1113,
+            "IForm": "むすこ",
+            "lemma": "息子"
+        },
+        {
+            "rank": 1526,
+            "IForm": "べい",
+            "lemma": "米"
+        },
+        {
+            "rank": 1028,
+            "IForm": "みつける",
+            "lemma": "見付ける"
+        },
+        {
+            "rank": 1518,
+            "IForm": "あまり",
+            "lemma": "余り"
+        },
+        {
+            "rank": 853,
+            "IForm": "こうれい",
+            "lemma": "高齢"
+        },
+        {
+            "rank": 897,
+            "IForm": "みぎ",
+            "lemma": "右"
+        },
+        {
+            "rank": 1292,
+            "IForm": "こうじょう",
+            "lemma": "工場"
+        },
+        {
+            "rank": 1998,
+            "IForm": "きこう",
+            "lemma": "機構"
+        },
+        {
+            "rank": 402,
+            "IForm": "くるま",
+            "lemma": "車"
+        },
+        {
+            "rank": 852,
+            "IForm": "つもり",
+            "lemma": "積り"
+        },
+        {
+            "rank": 601,
+            "IForm": "たしか",
+            "lemma": "確か"
+        },
+        {
+            "rank": 1835,
+            "IForm": "くろい",
+            "lemma": "黒い"
+        },
+        {
+            "rank": 714,
+            "IForm": "ちいさい",
+            "lemma": "小さい"
+        },
+        {
+            "rank": 1570,
+            "IForm": "りょうきん",
+            "lemma": "料金"
+        },
+        {
+            "rank": 1470,
+            "IForm": "しょうじょう",
+            "lemma": "症状"
+        },
+        {
+            "rank": 1881,
+            "IForm": "とくしゅ",
+            "lemma": "特殊"
+        },
+        {
+            "rank": 1239,
+            "IForm": "どあ",
+            "lemma": "ドア"
+        },
+        {
+            "rank": 1680,
+            "IForm": "じゅよう",
+            "lemma": "需要"
+        },
+        {
+            "rank": 1085,
+            "IForm": "がくせい",
+            "lemma": "学生"
+        },
+        {
+            "rank": 1515,
+            "IForm": "しかた",
+            "lemma": "仕方"
+        },
+        {
+            "rank": 478,
+            "IForm": "かぞく",
+            "lemma": "家族"
+        },
+        {
+            "rank": 821,
+            "IForm": "じこ",
+            "lemma": "事故"
+        },
+        {
+            "rank": 1709,
+            "IForm": "しょくぎょう",
+            "lemma": "職業"
+        },
+        {
+            "rank": 474,
+            "IForm": "ひらく",
+            "lemma": "開く"
+        },
+        {
+            "rank": 1339,
+            "IForm": "そう",
+            "lemma": "層"
+        },
+        {
+            "rank": 1850,
+            "IForm": "かりる",
+            "lemma": "借りる"
+        },
+        {
+            "rank": 1622,
+            "IForm": "わける",
+            "lemma": "分ける"
+        },
+        {
+            "rank": 797,
+            "IForm": "どうよう",
+            "lemma": "同様"
+        },
+        {
+            "rank": 1662,
+            "IForm": "じもと",
+            "lemma": "地元"
+        },
+        {
+            "rank": 631,
+            "IForm": "はじまる",
+            "lemma": "始まる"
+        },
+        {
+            "rank": 708,
+            "IForm": "だんせい",
+            "lemma": "男性"
+        },
+        {
+            "rank": 1587,
+            "IForm": "べっど",
+            "lemma": "ベッド"
+        },
+        {
+            "rank": 1746,
+            "IForm": "きょうし",
+            "lemma": "教師"
+        },
+        {
+            "rank": 525,
+            "IForm": "きかん",
+            "lemma": "期間"
+        },
+        {
+            "rank": 225,
+            "IForm": "かんする",
+            "lemma": "関する"
+        },
+        {
+            "rank": 702,
+            "IForm": "せいき",
+            "lemma": "世紀"
+        },
+        {
+            "rank": 493,
+            "IForm": "はは",
+            "lemma": "母"
+        },
+        {
+            "rank": 408,
+            "IForm": "ご",
+            "lemma": "語"
+        },
+        {
+            "rank": 1123,
+            "IForm": "だいじ",
+            "lemma": "大事"
+        },
+        {
+            "rank": 1340,
+            "IForm": "ゆび",
+            "lemma": "指"
+        },
+        {
+            "rank": 907,
+            "IForm": "ほてる",
+            "lemma": "ホテル"
+        },
+        {
+            "rank": 1755,
+            "IForm": "はこ",
+            "lemma": "箱"
+        },
+        {
+            "rank": 1658,
+            "IForm": "しょくひん",
+            "lemma": "食品"
+        },
+        {
+            "rank": 1617,
+            "IForm": "ふく",
+            "lemma": "服"
+        },
+        {
+            "rank": 1698,
+            "IForm": "おとずれる",
+            "lemma": "訪れる"
+        },
+        {
+            "rank": 1195,
+            "IForm": "おす",
+            "lemma": "押す"
+        },
+        {
+            "rank": 139,
+            "IForm": "しる",
+            "lemma": "知る"
+        },
+        {
+            "rank": 1880,
+            "IForm": "わだい",
+            "lemma": "話題"
+        },
+        {
+            "rank": 1103,
+            "IForm": "よこ",
+            "lemma": "横"
+        },
+        {
+            "rank": 1322,
+            "IForm": "よーろっぱ",
+            "lemma": "ヨーロッパ"
+        },
+        {
+            "rank": 1436,
+            "IForm": "こたえ",
+            "lemma": "答え"
+        },
+        {
+            "rank": 1668,
+            "IForm": "あつかう",
+            "lemma": "扱う"
+        },
+        {
+            "rank": 307,
+            "IForm": "おんな",
+            "lemma": "女"
+        },
+        {
+            "rank": 1283,
+            "IForm": "みなみ",
+            "lemma": "南"
+        },
+        {
+            "rank": 1188,
+            "IForm": "ざいせい",
+            "lemma": "財政"
+        },
+        {
+            "rank": 1709,
+            "IForm": "げいじゅつ",
+            "lemma": "芸術"
+        },
+        {
+            "rank": 1166,
+            "IForm": "さいがい",
+            "lemma": "災害"
+        },
+        {
+            "rank": 1510,
+            "IForm": "げんご",
+            "lemma": "言語"
+        },
+        {
+            "rank": 1383,
+            "IForm": "ひ",
+            "lemma": "比"
+        },
+        {
+            "rank": 303,
+            "IForm": "じょうきょう",
+            "lemma": "状況"
+        },
+        {
+            "rank": 1304,
+            "IForm": "きた",
+            "lemma": "北"
+        },
+        {
+            "rank": 1690,
+            "IForm": "ぼうさい",
+            "lemma": "防災"
+        },
+        {
+            "rank": 1735,
+            "IForm": "ぶんしょう",
+            "lemma": "文章"
+        },
+        {
+            "rank": 1894,
+            "IForm": "こっかい",
+            "lemma": "国会"
+        },
+        {
+            "rank": 896,
+            "IForm": "ねる",
+            "lemma": "寝る"
+        },
+        {
+            "rank": 1564,
+            "IForm": "みじかい",
+            "lemma": "短い"
+        },
+        {
+            "rank": 901,
+            "IForm": "かんぜん",
+            "lemma": "完全"
+        },
+        {
+            "rank": 1333,
+            "IForm": "しゃちょう",
+            "lemma": "社長"
+        },
+        {
+            "rank": 1193,
+            "IForm": "えど",
+            "lemma": "エド"
+        },
+        {
+            "rank": 1691,
+            "IForm": "だんじょ",
+            "lemma": "男女"
+        },
+        {
+            "rank": 1289,
+            "IForm": "ならぶ",
+            "lemma": "並ぶ"
+        },
+        {
+            "rank": 1144,
+            "IForm": "ばす",
+            "lemma": "バス"
+        },
+        {
+            "rank": 1953,
+            "IForm": "しょうけん",
+            "lemma": "証券"
+        },
+        {
+            "rank": 1733,
+            "IForm": "へん",
+            "lemma": "辺"
+        },
+        {
+            "rank": 1572,
+            "IForm": "しせい",
+            "lemma": "姿勢"
+        },
+        {
+            "rank": 1701,
+            "IForm": "ちえ",
+            "lemma": "知恵"
+        },
+        {
+            "rank": 1047,
+            "IForm": "きびしい",
+            "lemma": "厳しい"
+        },
+        {
+            "rank": 774,
+            "IForm": "げんじつ",
+            "lemma": "現実"
+        },
+        {
+            "rank": 1618,
+            "IForm": "いん",
+            "lemma": "イン"
+        },
+        {
+            "rank": 424,
+            "IForm": "のむ",
+            "lemma": "飲む"
+        },
+        {
+            "rank": 1049,
+            "IForm": "みみ",
+            "lemma": "耳"
+        },
+        {
+            "rank": 343,
+            "IForm": "しめす",
+            "lemma": "示す"
+        },
+        {
+            "rank": 1873,
+            "IForm": "しゅっしん",
+            "lemma": "出身"
+        },
+        {
+            "rank": 1711,
+            "IForm": "のびる",
+            "lemma": "伸びる"
+        },
+        {
+            "rank": 475,
+            "IForm": "がわ",
+            "lemma": "側"
+        },
+        {
+            "rank": 1411,
+            "IForm": "としょ",
+            "lemma": "図書"
+        },
+        {
+            "rank": 943,
+            "IForm": "なくなる",
+            "lemma": "無くなる"
+        },
+        {
+            "rank": 738,
+            "IForm": "すむ",
+            "lemma": "済む"
+        },
+        {
+            "rank": 335,
+            "IForm": "はず",
+            "lemma": "筈"
+        },
+        {
+            "rank": 1761,
+            "IForm": "かかえる",
+            "lemma": "抱える"
+        },
+        {
+            "rank": 1105,
+            "IForm": "かぶしき",
+            "lemma": "株式"
+        },
+        {
+            "rank": 460,
+            "IForm": "りゆう",
+            "lemma": "理由"
+        },
+        {
+            "rank": 570,
+            "IForm": "わかい",
+            "lemma": "若い"
+        },
+        {
+            "rank": 1960,
+            "IForm": "まつり",
+            "lemma": "祭り"
+        },
+        {
+            "rank": 676,
+            "IForm": "もとづく",
+            "lemma": "基づく"
+        },
+        {
+            "rank": 1868,
+            "IForm": "けいしき",
+            "lemma": "形式"
+        },
+        {
+            "rank": 572,
+            "IForm": "おと",
+            "lemma": "音"
+        },
+        {
+            "rank": 1138,
+            "IForm": "きる",
+            "lemma": "着る"
+        },
+        {
+            "rank": 1689,
+            "IForm": "こうりつ",
+            "lemma": "効率"
+        },
+        {
+            "rank": 1941,
+            "IForm": "ほんぶ",
+            "lemma": "本部"
+        },
+        {
+            "rank": 1071,
+            "IForm": "じんこう",
+            "lemma": "人口"
+        },
+        {
+            "rank": 1414,
+            "IForm": "かんじょう",
+            "lemma": "感情"
+        },
+        {
+            "rank": 192,
+            "IForm": "にんげん",
+            "lemma": "人間"
+        },
+        {
+            "rank": 890,
+            "IForm": "うみ",
+            "lemma": "海"
+        },
+        {
+            "rank": 1786,
+            "IForm": "げんじょう",
+            "lemma": "現状"
+        },
+        {
+            "rank": 1485,
+            "IForm": "こうぎょう",
+            "lemma": "工業"
+        },
+        {
+            "rank": 320,
+            "IForm": "せんせい",
+            "lemma": "先生"
+        },
+        {
+            "rank": 1615,
+            "IForm": "ざっし",
+            "lemma": "雑誌"
+        },
+        {
+            "rank": 1233,
+            "IForm": "こわい",
+            "lemma": "怖い"
+        },
+        {
+            "rank": 1688,
+            "IForm": "めいかく",
+            "lemma": "明確"
+        },
+        {
+            "rank": 656,
+            "IForm": "はたらく",
+            "lemma": "働く"
+        },
+        {
+            "rank": 495,
+            "IForm": "かん",
+            "lemma": "感"
+        },
+        {
+            "rank": 725,
+            "IForm": "わらう",
+            "lemma": "笑う"
+        },
+        {
+            "rank": 496,
+            "IForm": "とし",
+            "lemma": "都市"
+        },
+        {
+            "rank": 587,
+            "IForm": "えき",
+            "lemma": "駅"
+        },
+        {
+            "rank": 1556,
+            "IForm": "しかく",
+            "lemma": "資格"
+        },
+        {
+            "rank": 635,
+            "IForm": "おや",
+            "lemma": "親"
+        },
+        {
+            "rank": 1849,
+            "IForm": "せいけん",
+            "lemma": "政権"
+        },
+        {
+            "rank": 904,
+            "IForm": "きょく",
+            "lemma": "曲"
+        },
+        {
+            "rank": 1101,
+            "IForm": "こくない",
+            "lemma": "国内"
+        },
+        {
+            "rank": 1134,
+            "IForm": "かぜ",
+            "lemma": "風"
+        },
+        {
+            "rank": 1659,
+            "IForm": "ばば",
+            "lemma": "婆"
+        },
+        {
+            "rank": 1396,
+            "IForm": "こうくう",
+            "lemma": "航空"
+        },
+        {
+            "rank": 1932,
+            "IForm": "つく",
+            "lemma": "着く"
+        },
+        {
+            "rank": 1494,
+            "IForm": "いだく",
+            "lemma": "抱く"
+        },
+        {
+            "rank": 1405,
+            "IForm": "いのち",
+            "lemma": "命"
+        },
+        {
+            "rank": 1171,
+            "IForm": "とれる",
+            "lemma": "取れる"
+        },
+        {
+            "rank": 317,
+            "IForm": "わるい",
+            "lemma": "悪い"
+        },
+        {
+            "rank": 310,
+            "IForm": "かう",
+            "lemma": "買う"
+        },
+        {
+            "rank": 1551,
+            "IForm": "ようそ",
+            "lemma": "要素"
+        },
+        {
+            "rank": 1519,
+            "IForm": "いたい",
+            "lemma": "痛い"
+        },
+        {
+            "rank": 1530,
+            "IForm": "せいめい",
+            "lemma": "生命"
+        },
+        {
+            "rank": 1346,
+            "IForm": "なく",
+            "lemma": "泣く"
+        },
+        {
+            "rank": 1743,
+            "IForm": "きく",
+            "lemma": "利く"
+        },
+        {
+            "rank": 483,
+            "IForm": "ひとびと",
+            "lemma": "人々"
+        },
+        {
+            "rank": 786,
+            "IForm": "すむ",
+            "lemma": "住む"
+        },
+        {
+            "rank": 173,
+            "IForm": "しゃかい",
+            "lemma": "社会"
+        },
+        {
+            "rank": 1671,
+            "IForm": "きんだい",
+            "lemma": "近代"
+        },
+        {
+            "rank": 622,
+            "IForm": "いりょう",
+            "lemma": "医療"
+        },
+        {
+            "rank": 701,
+            "IForm": "がいこく",
+            "lemma": "外国"
+        },
+        {
+            "rank": 777,
+            "IForm": "おいしい",
+            "lemma": "美味しい"
+        },
+        {
+            "rank": 218,
+            "IForm": "しれる",
+            "lemma": "知れる"
+        },
+        {
+            "rank": 976,
+            "IForm": "のうぎょう",
+            "lemma": "農業"
+        },
+        {
+            "rank": 1066,
+            "IForm": "きんがく",
+            "lemma": "金額"
+        },
+        {
+            "rank": 1508,
+            "IForm": "じ",
+            "lemma": "字"
+        },
+        {
+            "rank": 700,
+            "IForm": "くらべる",
+            "lemma": "比べる"
+        },
+        {
+            "rank": 1343,
+            "IForm": "おりる",
+            "lemma": "下りる"
+        },
+        {
+            "rank": 1421,
+            "IForm": "ふね",
+            "lemma": "船"
+        },
+        {
+            "rank": 1889,
+            "IForm": "じったい",
+            "lemma": "実態"
+        },
+        {
+            "rank": 1598,
+            "IForm": "ぷろ",
+            "lemma": "プロ"
+        },
+        {
+            "rank": 997,
+            "IForm": "かんがえ",
+            "lemma": "考え"
+        },
+        {
+            "rank": 1424,
+            "IForm": "よろこぶ",
+            "lemma": "喜ぶ"
+        },
+        {
+            "rank": 800,
+            "IForm": "せんしゅ",
+            "lemma": "選手"
+        },
+        {
+            "rank": 413,
+            "IForm": "ちゅうしん",
+            "lemma": "中心"
+        },
+        {
+            "rank": 356,
+            "IForm": "せいど",
+            "lemma": "制度"
+        },
+        {
+            "rank": 1646,
+            "IForm": "かたい",
+            "lemma": "固い"
+        },
+        {
+            "rank": 1946,
+            "IForm": "いし",
+            "lemma": "意思"
+        },
+        {
+            "rank": 1845,
+            "IForm": "きき",
+            "lemma": "危機"
+        },
+        {
+            "rank": 1120,
+            "IForm": "かだい",
+            "lemma": "課題"
+        },
+        {
+            "rank": 977,
+            "IForm": "しゅじん",
+            "lemma": "主人"
+        },
+        {
+            "rank": 806,
+            "IForm": "ひかり",
+            "lemma": "光"
+        },
+        {
+            "rank": 1419,
+            "IForm": "はる",
+            "lemma": "張る"
+        },
+        {
+            "rank": 1657,
+            "IForm": "もうける",
+            "lemma": "設ける"
+        },
+        {
+            "rank": 1269,
+            "IForm": "いし",
+            "lemma": "医師"
+        },
+        {
+            "rank": 1033,
+            "IForm": "うた",
+            "lemma": "歌"
+        },
+        {
+            "rank": 153,
+            "IForm": "き",
+            "lemma": "気"
+        },
+        {
+            "rank": 1187,
+            "IForm": "ぎむ",
+            "lemma": "義務"
+        },
+        {
+            "rank": 1574,
+            "IForm": "てーま",
+            "lemma": "テーマ"
+        },
+        {
+            "rank": 455,
+            "IForm": "りつ",
+            "lemma": "率"
+        },
+        {
+            "rank": 1603,
+            "IForm": "ちょうき",
+            "lemma": "長期"
+        },
+        {
+            "rank": 913,
+            "IForm": "うごき",
+            "lemma": "動き"
+        },
+        {
+            "rank": 1904,
+            "IForm": "しゅしょう",
+            "lemma": "首相"
+        },
+        {
+            "rank": 1430,
+            "IForm": "でんし",
+            "lemma": "電子"
+        },
+        {
+            "rank": 1834,
+            "IForm": "あり",
+            "lemma": "有り"
+        },
+        {
+            "rank": 927,
+            "IForm": "しんずる",
+            "lemma": "信ずる"
+        },
+        {
+            "rank": 1762,
+            "IForm": "たいよう",
+            "lemma": "太陽"
+        },
+        {
+            "rank": 685,
+            "IForm": "こうぞう",
+            "lemma": "構造"
+        },
+        {
+            "rank": 436,
+            "IForm": "わらい",
+            "lemma": "笑い"
+        },
+        {
+            "rank": 1823,
+            "IForm": "あな",
+            "lemma": "穴"
+        },
+        {
+            "rank": 1111,
+            "IForm": "てんのう",
+            "lemma": "天皇"
+        },
+        {
+            "rank": 1369,
+            "IForm": "しゅうきょう",
+            "lemma": "宗教"
+        },
+        {
+            "rank": 1977,
+            "IForm": "あたたかい",
+            "lemma": "温かい"
+        },
+        {
+            "rank": 1329,
+            "IForm": "すごす",
+            "lemma": "過ごす"
+        },
+        {
+            "rank": 1444,
+            "IForm": "すてる",
+            "lemma": "捨てる"
+        },
+        {
+            "rank": 1942,
+            "IForm": "はずす",
+            "lemma": "外す"
+        },
+        {
+            "rank": 1038,
+            "IForm": "めいじ",
+            "lemma": "明治"
+        },
+        {
+            "rank": 873,
+            "IForm": "じんせい",
+            "lemma": "人生"
+        },
+        {
+            "rank": 1165,
+            "IForm": "あめ",
+            "lemma": "雨"
+        },
+        {
+            "rank": 1032,
+            "IForm": "はんい",
+            "lemma": "範囲"
+        },
+        {
+            "rank": 809,
+            "IForm": "ゆめ",
+            "lemma": "夢"
+        },
+        {
+            "rank": 758,
+            "IForm": "こっか",
+            "lemma": "国家"
+        },
+        {
+            "rank": 1929,
+            "IForm": "たくさん",
+            "lemma": "沢山"
+        },
+        {
+            "rank": 1360,
+            "IForm": "とどく",
+            "lemma": "届く"
+        },
+        {
+            "rank": 1082,
+            "IForm": "ぱそこん",
+            "lemma": "パソコン"
+        },
+        {
+            "rank": 1281,
+            "IForm": "ど",
+            "lemma": "土"
+        },
+        {
+            "rank": 1600,
+            "IForm": "にげる",
+            "lemma": "逃げる"
+        },
+        {
+            "rank": 1809,
+            "IForm": "かよう",
+            "lemma": "通う"
+        },
+        {
+            "rank": 500,
+            "IForm": "れい",
+            "lemma": "例"
+        },
+        {
+            "rank": 168,
+            "IForm": "し",
+            "lemma": "市"
+        },
+        {
+            "rank": 403,
+            "IForm": "くち",
+            "lemma": "口"
+        },
+        {
+            "rank": 1613,
+            "IForm": "せだい",
+            "lemma": "世代"
+        },
+        {
+            "rank": 1870,
+            "IForm": "きー",
+            "lemma": "キー"
+        },
+        {
+            "rank": 220,
+            "IForm": "ず",
+            "lemma": "図"
+        },
+        {
+            "rank": 1913,
+            "IForm": "すぐれる",
+            "lemma": "優れる"
+        },
+        {
+            "rank": 1219,
+            "IForm": "じどう",
+            "lemma": "児童"
+        },
+        {
+            "rank": 1575,
+            "IForm": "さかな",
+            "lemma": "魚"
+        },
+        {
+            "rank": 1908,
+            "IForm": "ながす",
+            "lemma": "流す"
+        },
+        {
+            "rank": 991,
+            "IForm": "あらわす",
+            "lemma": "表わす"
+        },
+        {
+            "rank": 1649,
+            "IForm": "そば",
+            "lemma": "側"
+        },
+        {
+            "rank": 1742,
+            "IForm": "ゆうびん",
+            "lemma": "郵便"
+        },
+        {
+            "rank": 1199,
+            "IForm": "ほけん",
+            "lemma": "保健"
+        },
+        {
+            "rank": 416,
+            "IForm": "もとめる",
+            "lemma": "求める"
+        },
+        {
+            "rank": 1625,
+            "IForm": "ぼたん",
+            "lemma": "ボタン"
+        },
+        {
+            "rank": 823,
+            "IForm": "ふえる",
+            "lemma": "増える"
+        },
+        {
+            "rank": 1819,
+            "IForm": "かくしゅ",
+            "lemma": "各種"
+        },
+        {
+            "rank": 1314,
+            "IForm": "わん",
+            "lemma": "ワン"
+        },
+        {
+            "rank": 1618,
+            "IForm": "ねむる",
+            "lemma": "眠る"
+        },
+        {
+            "rank": 813,
+            "IForm": "もうしこみ",
+            "lemma": "申し込み"
+        },
+        {
+            "rank": 1285,
+            "IForm": "ぶん",
+            "lemma": "文"
+        },
+        {
+            "rank": 355,
+            "IForm": "はやい",
+            "lemma": "早い"
+        },
+        {
+            "rank": 984,
+            "IForm": "とめる",
+            "lemma": "止める"
+        },
+        {
+            "rank": 1084,
+            "IForm": "かいがい",
+            "lemma": "海外"
+        },
+        {
+            "rank": 158,
+            "IForm": "おおい",
+            "lemma": "多い"
+        },
+        {
+            "rank": 203,
+            "IForm": "たかい",
+            "lemma": "高い"
+        },
+        {
+            "rank": 273,
+            "IForm": "ねんど",
+            "lemma": "年度"
+        },
+        {
+            "rank": 258,
+            "IForm": "いえ",
+            "lemma": "家"
+        },
+        {
+            "rank": 1479,
+            "IForm": "かかげる",
+            "lemma": "掲げる"
+        },
+        {
+            "rank": 324,
+            "IForm": "ないよう",
+            "lemma": "内容"
+        },
+        {
+            "rank": 214,
+            "IForm": "じょうほう",
+            "lemma": "情報"
+        },
+        {
+            "rank": 1581,
+            "IForm": "みんぞく",
+            "lemma": "民族"
+        },
+        {
+            "rank": 727,
+            "IForm": "たいせつ",
+            "lemma": "大切"
+        },
+        {
+            "rank": 489,
+            "IForm": "もどる",
+            "lemma": "戻る"
+        },
+        {
+            "rank": 1951,
+            "IForm": "ふる",
+            "lemma": "降る"
+        },
+        {
+            "rank": 1291,
+            "IForm": "せん",
+            "lemma": "線"
+        },
+        {
+            "rank": 648,
+            "IForm": "き",
+            "lemma": "木"
+        },
+        {
+            "rank": 1579,
+            "IForm": "もたらす",
+            "lemma": "齎す"
+        },
+        {
+            "rank": 469,
+            "IForm": "した",
+            "lemma": "下"
+        },
+        {
+            "rank": 801,
+            "IForm": "がんばる",
+            "lemma": "頑張る"
+        },
+        {
+            "rank": 1374,
+            "IForm": "あかるい",
+            "lemma": "明るい"
+        },
+        {
+            "rank": 1344,
+            "IForm": "ぼーる",
+            "lemma": "ボール"
+        },
+        {
+            "rank": 618,
+            "IForm": "せきにん",
+            "lemma": "責任"
+        },
+        {
+            "rank": 1524,
+            "IForm": "じしん",
+            "lemma": "地震"
+        },
+        {
+            "rank": 459,
+            "IForm": "みとめる",
+            "lemma": "認める"
+        },
+        {
+            "rank": 611,
+            "IForm": "うまれる",
+            "lemma": "生まれる"
+        },
+        {
+            "rank": 1927,
+            "IForm": "あせ",
+            "lemma": "汗"
+        },
+        {
+            "rank": 1371,
+            "IForm": "しゅうへん",
+            "lemma": "周辺"
+        },
+        {
+            "rank": 754,
+            "IForm": "うごく",
+            "lemma": "動く"
+        },
+        {
+            "rank": 1682,
+            "IForm": "ぶんがく",
+            "lemma": "文学"
+        },
+        {
+            "rank": 1311,
+            "IForm": "きん",
+            "lemma": "金"
+        },
+        {
+            "rank": 1453,
+            "IForm": "たい",
+            "lemma": "対"
+        },
+        {
+            "rank": 1958,
+            "IForm": "とりしまり",
+            "lemma": "取り締まり"
+        },
+        {
+            "rank": 431,
+            "IForm": "がく",
+            "lemma": "額"
+        },
+        {
+            "rank": 191,
+            "IForm": "うける",
+            "lemma": "受ける"
+        },
+        {
+            "rank": 194,
+            "IForm": "つぎ",
+            "lemma": "次"
+        },
+        {
+            "rank": 1517,
+            "IForm": "さむい",
+            "lemma": "寒い"
+        },
+        {
+            "rank": 972,
+            "IForm": "たつ",
+            "lemma": "経つ"
+        },
+        {
+            "rank": 1262,
+            "IForm": "はげしい",
+            "lemma": "激しい"
+        },
+        {
+            "rank": 1878,
+            "IForm": "わたす",
+            "lemma": "渡す"
+        },
+        {
+            "rank": 1178,
+            "IForm": "かるい",
+            "lemma": "軽い"
+        },
+        {
+            "rank": 1644,
+            "IForm": "ちか",
+            "lemma": "地下"
+        },
+        {
+            "rank": 1999,
+            "IForm": "せまい",
+            "lemma": "狭い"
+        },
+        {
+            "rank": 1604,
+            "IForm": "ふんいき",
+            "lemma": "雰囲気"
+        },
+        {
+            "rank": 645,
+            "IForm": "かかわる",
+            "lemma": "関わる"
+        },
+        {
+            "rank": 1684,
+            "IForm": "しぜん",
+            "lemma": "自然"
+        },
+        {
+            "rank": 610,
+            "IForm": "かみ",
+            "lemma": "神"
+        },
+        {
+            "rank": 1197,
+            "IForm": "ぶっしつ",
+            "lemma": "物質"
+        },
+        {
+            "rank": 1060,
+            "IForm": "うる",
+            "lemma": "売る"
+        },
+        {
+            "rank": 657,
+            "IForm": "おくる",
+            "lemma": "送る"
+        },
+        {
+            "rank": 1213,
+            "IForm": "きそ",
+            "lemma": "基礎"
+        },
+        {
+            "rank": 367,
+            "IForm": "きほん",
+            "lemma": "基本"
+        },
+        {
+            "rank": 602,
+            "IForm": "みち",
+            "lemma": "道"
+        },
+        {
+            "rank": 970,
+            "IForm": "たちば",
+            "lemma": "立場"
+        },
+        {
+            "rank": 1983,
+            "IForm": "しょき",
+            "lemma": "初期"
+        },
+        {
+            "rank": 1146,
+            "IForm": "あじあ",
+            "lemma": "アジア"
+        },
+        {
+            "rank": 864,
+            "IForm": "おっと",
+            "lemma": "夫"
+        },
+        {
+            "rank": 755,
+            "IForm": "ひく",
+            "lemma": "引く"
+        },
+        {
+            "rank": 1988,
+            "IForm": "さげる",
+            "lemma": "下げる"
+        },
+        {
+            "rank": 1499,
+            "IForm": "つらい",
+            "lemma": "辛い"
+        },
+        {
+            "rank": 1126,
+            "IForm": "のせる",
+            "lemma": "乗せる"
+        },
+        {
+            "rank": 1682,
+            "IForm": "せたい",
+            "lemma": "世帯"
+        },
+        {
+            "rank": 519,
+            "IForm": "しぜん",
+            "lemma": "自然"
+        },
+        {
+            "rank": 1772,
+            "IForm": "たたかう",
+            "lemma": "戦う"
+        },
+        {
+            "rank": 1407,
+            "IForm": "とまる",
+            "lemma": "止まる"
+        },
+        {
+            "rank": 652,
+            "IForm": "だんたい",
+            "lemma": "団体"
+        },
+        {
+            "rank": 776,
+            "IForm": "あらわれる",
+            "lemma": "現われる"
+        },
+        {
+            "rank": 1044,
+            "IForm": "ゆうじん",
+            "lemma": "友人"
+        },
+        {
+            "rank": 668,
+            "IForm": "どうじ",
+            "lemma": "同時"
+        },
+        {
+            "rank": 1451,
+            "IForm": "いんたーねっと",
+            "lemma": "インターネット"
+        },
+        {
+            "rank": 1077,
+            "IForm": "しさん",
+            "lemma": "資産"
+        },
+        {
+            "rank": 1089,
+            "IForm": "ちなみ",
+            "lemma": "因み"
+        },
+        {
+            "rank": 1803,
+            "IForm": "びる",
+            "lemma": "ビル"
+        },
+        {
+            "rank": 646,
+            "IForm": "とち",
+            "lemma": "土地"
+        },
+        {
+            "rank": 211,
+            "IForm": "ちいき",
+            "lemma": "地域"
+        },
+        {
+            "rank": 1185,
+            "IForm": "えいご",
+            "lemma": "英語"
+        },
+        {
+            "rank": 1038,
+            "IForm": "うしなう",
+            "lemma": "失う"
+        },
+        {
+            "rank": 506,
+            "IForm": "あたる",
+            "lemma": "当たる"
+        },
+        {
+            "rank": 1620,
+            "IForm": "ながめる",
+            "lemma": "眺める"
+        },
+        {
+            "rank": 1418,
+            "IForm": "がん",
+            "lemma": "癌"
+        },
+        {
+            "rank": 824,
+            "IForm": "おおさか",
+            "lemma": "オオサカ"
+        },
+        {
+            "rank": 1782,
+            "IForm": "つかれる",
+            "lemma": "疲れる"
+        },
+        {
+            "rank": 1577,
+            "IForm": "しょくぶつ",
+            "lemma": "植物"
+        },
+        {
+            "rank": 1075,
+            "IForm": "めざす",
+            "lemma": "目指す"
+        },
+        {
+            "rank": 1881,
+            "IForm": "かくじつ",
+            "lemma": "確実"
+        },
+        {
+            "rank": 867,
+            "IForm": "つうずる",
+            "lemma": "通ずる"
+        },
+        {
+            "rank": 1491,
+            "IForm": "ぱん",
+            "lemma": "パン"
+        },
+        {
+            "rank": 932,
+            "IForm": "ねんれい",
+            "lemma": "年齢"
+        },
+        {
+            "rank": 1807,
+            "IForm": "こうもく",
+            "lemma": "項目"
+        },
+        {
+            "rank": 96,
+            "IForm": "ほう",
+            "lemma": "方"
+        },
+        {
+            "rank": 1607,
+            "IForm": "りろん",
+            "lemma": "理論"
+        },
+        {
+            "rank": 1442,
+            "IForm": "じょし",
+            "lemma": "女子"
+        },
+        {
+            "rank": 1124,
+            "IForm": "むかえる",
+            "lemma": "迎える"
+        },
+        {
+            "rank": 1541,
+            "IForm": "ゆたか",
+            "lemma": "豊か"
+        },
+        {
+            "rank": 2002,
+            "IForm": "かみ",
+            "lemma": "紙"
+        },
+        {
+            "rank": 744,
+            "IForm": "おもい",
+            "lemma": "思い"
+        },
+        {
+            "rank": 886,
+            "IForm": "だんかい",
+            "lemma": "段階"
+        },
+        {
+            "rank": 679,
+            "IForm": "じゅうたく",
+            "lemma": "住宅"
+        },
+        {
+            "rank": 895,
+            "IForm": "のこす",
+            "lemma": "残す"
+        },
+        {
+            "rank": 479,
+            "IForm": "こうか",
+            "lemma": "効果"
+        },
+        {
+            "rank": 706,
+            "IForm": "かてい",
+            "lemma": "家庭"
+        },
+        {
+            "rank": 226,
+            "IForm": "けん",
+            "lemma": "県"
+        },
+        {
+            "rank": 1410,
+            "IForm": "たにん",
+            "lemma": "他人"
+        },
+        {
+            "rank": 1866,
+            "IForm": "えいよう",
+            "lemma": "栄養"
+        },
+        {
+            "rank": 222,
+            "IForm": "ことば",
+            "lemma": "言葉"
+        },
+        {
+            "rank": 1684,
+            "IForm": "けんぽう",
+            "lemma": "憲法"
+        },
+        {
+            "rank": 1229,
+            "IForm": "ばんごう",
+            "lemma": "番号"
+        },
+        {
+            "rank": 1325,
+            "IForm": "ひ",
+            "lemma": "火"
+        },
+        {
+            "rank": 1367,
+            "IForm": "いんしょう",
+            "lemma": "印象"
+        },
+        {
+            "rank": 1816,
+            "IForm": "へる",
+            "lemma": "減る"
+        },
+        {
+            "rank": 209,
+            "IForm": "おとこ",
+            "lemma": "男"
+        },
+        {
+            "rank": 1871,
+            "IForm": "たたく",
+            "lemma": "叩く"
+        },
+        {
+            "rank": 1376,
+            "IForm": "やさい",
+            "lemma": "野菜"
+        },
+        {
+            "rank": 223,
+            "IForm": "いれる",
+            "lemma": "入れる"
+        },
+        {
+            "rank": 224,
+            "IForm": "くに",
+            "lemma": "国"
+        },
+        {
+            "rank": 650,
+            "IForm": "えいが",
+            "lemma": "映画"
+        },
+        {
+            "rank": 1245,
+            "IForm": "しんけい",
+            "lemma": "神経"
+        },
+        {
+            "rank": 1323,
+            "IForm": "げーむ",
+            "lemma": "ゲーム"
+        },
+        {
+            "rank": 241,
+            "IForm": "みえる",
+            "lemma": "見える"
+        },
+        {
+            "rank": 526,
+            "IForm": "はかる",
+            "lemma": "図る"
+        },
+        {
+            "rank": 817,
+            "IForm": "すすめる",
+            "lemma": "勧める"
+        },
+        {
+            "rank": 1713,
+            "IForm": "ないかく",
+            "lemma": "内閣"
+        },
+        {
+            "rank": 1295,
+            "IForm": "とらえる",
+            "lemma": "捕らえる"
+        },
+        {
+            "rank": 1753,
+            "IForm": "およぶ",
+            "lemma": "及ぶ"
+        },
+        {
+            "rank": 615,
+            "IForm": "せいしん",
+            "lemma": "精神"
+        },
+        {
+            "rank": 1817,
+            "IForm": "がらす",
+            "lemma": "ガラス"
+        },
+        {
+            "rank": 1238,
+            "IForm": "きかい",
+            "lemma": "機会"
+        },
+        {
+            "rank": 1502,
+            "IForm": "じてん",
+            "lemma": "時点"
+        },
+        {
+            "rank": 1186,
+            "IForm": "せいと",
+            "lemma": "生徒"
+        },
+        {
+            "rank": 950,
+            "IForm": "くび",
+            "lemma": "首"
+        },
+        {
+            "rank": 1066,
+            "IForm": "つくり",
+            "lemma": "作り"
+        },
+        {
+            "rank": 732,
+            "IForm": "あきらか",
+            "lemma": "明らか"
+        },
+        {
+            "rank": 1056,
+            "IForm": "にんき",
+            "lemma": "人気"
+        },
+        {
+            "rank": 1993,
+            "IForm": "さっか",
+            "lemma": "作家"
+        },
+        {
+            "rank": 1648,
+            "IForm": "げんしょう",
+            "lemma": "現象"
+        },
+        {
+            "rank": 1691,
+            "IForm": "すいじゅん",
+            "lemma": "水準"
+        },
+        {
+            "rank": 1226,
+            "IForm": "まちがい",
+            "lemma": "間違い"
+        },
+        {
+            "rank": 1495,
+            "IForm": "うま",
+            "lemma": "馬"
+        },
+        {
+            "rank": 471,
+            "IForm": "こたえる",
+            "lemma": "答える"
+        },
+        {
+            "rank": 1472,
+            "IForm": "しげん",
+            "lemma": "資源"
+        },
+        {
+            "rank": 389,
+            "IForm": "はなす",
+            "lemma": "話す"
+        },
+        {
+            "rank": 769,
+            "IForm": "やめる",
+            "lemma": "止める"
+        },
+        {
+            "rank": 1527,
+            "IForm": "かっこう",
+            "lemma": "格好"
+        },
+        {
+            "rank": 2001,
+            "IForm": "いしゃ",
+            "lemma": "医者"
+        },
+        {
+            "rank": 888,
+            "IForm": "ほーむ",
+            "lemma": "ホーム"
+        },
+        {
+            "rank": 1833,
+            "IForm": "せつ",
+            "lemma": "説"
+        },
+        {
+            "rank": 1353,
+            "IForm": "くうかん",
+            "lemma": "空間"
+        },
+        {
+            "rank": 887,
+            "IForm": "おきる",
+            "lemma": "起きる"
+        },
+        {
+            "rank": 971,
+            "IForm": "じゅうみん",
+            "lemma": "住民"
+        },
+        {
+            "rank": 1264,
+            "IForm": "あに",
+            "lemma": "兄"
+        },
+        {
+            "rank": 1918,
+            "IForm": "かり",
+            "lemma": "仮"
+        },
+        {
+            "rank": 595,
+            "IForm": "とくべつ",
+            "lemma": "特別"
+        },
+        {
+            "rank": 1098,
+            "IForm": "かあ",
+            "lemma": "母"
+        },
+        {
+            "rank": 1372,
+            "IForm": "ちちおや",
+            "lemma": "父親"
+        },
+        {
+            "rank": 447,
+            "IForm": "したがう",
+            "lemma": "従う"
+        },
+        {
+            "rank": 1332,
+            "IForm": "おもい",
+            "lemma": "重い"
+        },
+        {
+            "rank": 311,
+            "IForm": "ち",
+            "lemma": "地"
+        },
+        {
+            "rank": 953,
+            "IForm": "な",
+            "lemma": "名"
+        },
+        {
+            "rank": 1606,
+            "IForm": "せいぶつ",
+            "lemma": "生物"
+        },
+        {
+            "rank": 1702,
+            "IForm": "ゆか",
+            "lemma": "床"
+        },
+        {
+            "rank": 1774,
+            "IForm": "たいむ",
+            "lemma": "タイム"
+        },
+        {
+            "rank": 1023,
+            "IForm": "のぞく",
+            "lemma": "除く"
+        },
+        {
+            "rank": 854,
+            "IForm": "ひろい",
+            "lemma": "広い"
+        },
+        {
+            "rank": 1034,
+            "IForm": "おもいだす",
+            "lemma": "思い出す"
+        },
+        {
+            "rank": 1795,
+            "IForm": "めんばー",
+            "lemma": "メンバー"
+        },
+        {
+            "rank": 1091,
+            "IForm": "せいひん",
+            "lemma": "製品"
+        },
+        {
+            "rank": 1334,
+            "IForm": "ふうふ",
+            "lemma": "夫婦"
+        },
+        {
+            "rank": 286,
+            "IForm": "とうきょう",
+            "lemma": "トウキョウ"
+        },
+        {
+            "rank": 864,
+            "IForm": "しらべる",
+            "lemma": "調べる"
+        },
+        {
+            "rank": 1931,
+            "IForm": "こんな",
+            "lemma": "こんな"
+        },
+        {
+            "rank": 1490,
+            "IForm": "ものがたり",
+            "lemma": "物語"
+        },
+        {
+            "rank": 1607,
+            "IForm": "とっぷ",
+            "lemma": "トップ"
+        },
+        {
+            "rank": 1910,
+            "IForm": "しゅう",
+            "lemma": "州"
+        },
+        {
+            "rank": 918,
+            "IForm": "いたる",
+            "lemma": "至る"
+        },
+        {
+            "rank": 1884,
+            "IForm": "わかもの",
+            "lemma": "若者"
+        },
+        {
+            "rank": 709,
+            "IForm": "でーた",
+            "lemma": "データ"
+        },
+        {
+            "rank": 636,
+            "IForm": "あし",
+            "lemma": "足"
+        },
+        {
+            "rank": 1125,
+            "IForm": "じこう",
+            "lemma": "事項"
+        },
+        {
+            "rank": 61,
+            "IForm": "よる",
+            "lemma": "因る"
+        },
+        {
+            "rank": 1137,
+            "IForm": "ちーむ",
+            "lemma": "チーム"
+        },
+        {
+            "rank": 1294,
+            "IForm": "げんし",
+            "lemma": "原子"
+        },
+        {
+            "rank": 430,
+            "IForm": "こくさい",
+            "lemma": "国際"
+        },
+        {
+            "rank": 1900,
+            "IForm": "おんせん",
+            "lemma": "温泉"
+        },
+        {
+            "rank": 1404,
+            "IForm": "かわり",
+            "lemma": "代わり"
+        },
+        {
+            "rank": 1373,
+            "IForm": "げんば",
+            "lemma": "現場"
+        },
+        {
+            "rank": 1222,
+            "IForm": "きえる",
+            "lemma": "消える"
+        },
+        {
+            "rank": 1939,
+            "IForm": "どらま",
+            "lemma": "ドラマ"
+        },
+        {
+            "rank": 1855,
+            "IForm": "まち",
+            "lemma": "街"
+        },
+        {
+            "rank": 1934,
+            "IForm": "こーひー",
+            "lemma": "コーヒー"
+        },
+        {
+            "rank": 1717,
+            "IForm": "おきなわ",
+            "lemma": "オキナワ"
+        },
+        {
+            "rank": 261,
+            "IForm": "けいざい",
+            "lemma": "経済"
+        },
+        {
+            "rank": 1614,
+            "IForm": "はいけい",
+            "lemma": "背景"
+        },
+        {
+            "rank": 1744,
+            "IForm": "とう",
+            "lemma": "問う"
+        },
+        {
+            "rank": 480,
+            "IForm": "ふくむ",
+            "lemma": "含む"
+        },
+        {
+            "rank": 108,
+            "IForm": "おく",
+            "lemma": "於く"
+        },
+        {
+            "rank": 1738,
+            "IForm": "かみ",
+            "lemma": "髪"
+        },
+        {
+            "rank": 1214,
+            "IForm": "あじ",
+            "lemma": "味"
+        },
+        {
+            "rank": 839,
+            "IForm": "おぼえる",
+            "lemma": "覚える"
+        },
+        {
+            "rank": 1107,
+            "IForm": "れべる",
+            "lemma": "レベル"
+        },
+        {
+            "rank": 105,
+            "IForm": "わかる",
+            "lemma": "分かる"
+        },
+        {
+            "rank": 1571,
+            "IForm": "しゅだん",
+            "lemma": "手段"
+        },
+        {
+            "rank": 949,
+            "IForm": "ぐるーぷ",
+            "lemma": "グループ"
+        },
+        {
+            "rank": 1793,
+            "IForm": "ねっとわーく",
+            "lemma": "ネットワーク"
+        },
+        {
+            "rank": 1957,
+            "IForm": "とりあげる",
+            "lemma": "取り上げる"
+        },
+        {
+            "rank": 1536,
+            "IForm": "らいん",
+            "lemma": "ライン"
+        },
+        {
+            "rank": 772,
+            "IForm": "と",
+            "lemma": "都"
+        },
+        {
+            "rank": 67,
+            "IForm": "ひと",
+            "lemma": "人"
+        },
+        {
+            "rank": 1476,
+            "IForm": "しそう",
+            "lemma": "思想"
+        },
+        {
+            "rank": 414,
+            "IForm": "きかん",
+            "lemma": "機関"
+        },
+        {
+            "rank": 1079,
+            "IForm": "もの",
+            "lemma": "物"
+        },
+        {
+            "rank": 1345,
+            "IForm": "ちかづく",
+            "lemma": "近付く"
+        },
+        {
+            "rank": 1954,
+            "IForm": "こすと",
+            "lemma": "コスト"
+        },
+        {
+            "rank": 860,
+            "IForm": "ろん",
+            "lemma": "論"
+        },
+        {
+            "rank": 671,
+            "IForm": "ふくし",
+            "lemma": "福祉"
+        },
+        {
+            "rank": 903,
+            "IForm": "ふ",
+            "lemma": "府"
+        },
+        {
+            "rank": 1189,
+            "IForm": "ふれる",
+            "lemma": "触れる"
+        },
+        {
+            "rank": 46,
+            "IForm": "おもう",
+            "lemma": "思う"
+        },
+        {
+            "rank": 1673,
+            "IForm": "おう",
+            "lemma": "追う"
+        },
+        {
+            "rank": 1021,
+            "IForm": "どう",
+            "lemma": "道"
+        },
+        {
+            "rank": 1740,
+            "IForm": "だいとうりょう",
+            "lemma": "大統領"
+        },
+        {
+            "rank": 939,
+            "IForm": "はん",
+            "lemma": "半"
+        },
+        {
+            "rank": 1678,
+            "IForm": "ささえる",
+            "lemma": "支える"
+        },
+        {
+            "rank": 127,
+            "IForm": "もんだい",
+            "lemma": "問題"
+        },
+        {
+            "rank": 849,
+            "IForm": "おんがく",
+            "lemma": "音楽"
+        },
+        {
+            "rank": 1167,
+            "IForm": "たてもの",
+            "lemma": "建物"
+        },
+        {
+            "rank": 578,
+            "IForm": "ほうりつ",
+            "lemma": "法律"
+        },
+        {
+            "rank": 433,
+            "IForm": "もくてき",
+            "lemma": "目的"
+        },
+        {
+            "rank": 802,
+            "IForm": "つたえる",
+            "lemma": "伝える"
+        },
+        {
+            "rank": 759,
+            "IForm": "しゅるい",
+            "lemma": "種類"
+        },
+        {
+            "rank": 1785,
+            "IForm": "てつどう",
+            "lemma": "鉄道"
+        },
+        {
+            "rank": 227,
+            "IForm": "がっこう",
+            "lemma": "学校"
+        },
+        {
+            "rank": 1454,
+            "IForm": "がめん",
+            "lemma": "画面"
+        },
+        {
+            "rank": 643,
+            "IForm": "はしる",
+            "lemma": "走る"
+        },
+        {
+            "rank": 667,
+            "IForm": "むすめ",
+            "lemma": "娘"
+        },
+        {
+            "rank": 462,
+            "IForm": "ぜんたい",
+            "lemma": "全体"
+        },
+        {
+            "rank": 1045,
+            "IForm": "しろい",
+            "lemma": "白い"
+        },
+        {
+            "rank": 340,
+            "IForm": "すくない",
+            "lemma": "少ない"
+        },
+        {
+            "rank": 540,
+            "IForm": "はな",
+            "lemma": "花"
+        },
+        {
+            "rank": 595,
+            "IForm": "さまざま",
+            "lemma": "様々"
+        },
+        {
+            "rank": 563,
+            "IForm": "みせ",
+            "lemma": "店"
+        },
+        {
+            "rank": 361,
+            "IForm": "かえる",
+            "lemma": "返る"
+        },
+        {
+            "rank": 771,
+            "IForm": "まもる",
+            "lemma": "守る"
+        },
+        {
+            "rank": 1038,
+            "IForm": "ちく",
+            "lemma": "地区"
+        },
+        {
+            "rank": 547,
+            "IForm": "み",
+            "lemma": "身"
+        },
+        {
+            "rank": 955,
+            "IForm": "えねるぎー",
+            "lemma": "エネルギー"
+        },
+        {
+            "rank": 1626,
+            "IForm": "くらす",
+            "lemma": "暮らす"
+        },
+        {
+            "rank": 1853,
+            "IForm": "しょこく",
+            "lemma": "諸国"
+        },
+        {
+            "rank": 497,
+            "IForm": "すう",
+            "lemma": "数"
+        },
+        {
+            "rank": 147,
+            "IForm": "かい",
+            "lemma": "会"
+        },
+        {
+            "rank": 1821,
+            "IForm": "うけいれる",
+            "lemma": "受け入れる"
+        },
+        {
+            "rank": 1793,
+            "IForm": "あか",
+            "lemma": "赤"
+        },
+        {
+            "rank": 301,
+            "IForm": "よぶ",
+            "lemma": "呼ぶ"
+        },
+        {
+            "rank": 1553,
+            "IForm": "おとす",
+            "lemma": "落とす"
+        },
+        {
+            "rank": 346,
+            "IForm": "せいふ",
+            "lemma": "政府"
+        },
+        {
+            "rank": 1108,
+            "IForm": "しょくいん",
+            "lemma": "職員"
+        },
+        {
+            "rank": 1539,
+            "IForm": "かてい",
+            "lemma": "過程"
+        },
+        {
+            "rank": 740,
+            "IForm": "もちいる",
+            "lemma": "用いる"
+        },
+        {
+            "rank": 281,
+            "IForm": "かんきょう",
+            "lemma": "環境"
+        },
+        {
+            "rank": 1326,
+            "IForm": "たいかい",
+            "lemma": "大会"
+        },
+        {
+            "rank": 242,
+            "IForm": "いいん",
+            "lemma": "委員"
+        },
+        {
+            "rank": 1201,
+            "IForm": "わりあい",
+            "lemma": "割合"
+        },
+        {
+            "rank": 375,
+            "IForm": "よむ",
+            "lemma": "読む"
+        },
+        {
+            "rank": 1427,
+            "IForm": "ふぁん",
+            "lemma": "ファン"
+        },
+        {
+            "rank": 715,
+            "IForm": "しみん",
+            "lemma": "市民"
+        },
+        {
+            "rank": 1389,
+            "IForm": "あつめる",
+            "lemma": "集める"
+        },
+        {
+            "rank": 1597,
+            "IForm": "おそい",
+            "lemma": "遅い"
+        },
+        {
+            "rank": 364,
+            "IForm": "きもち",
+            "lemma": "気持ち"
+        },
+        {
+            "rank": 1676,
+            "IForm": "たっする",
+            "lemma": "達する"
+        },
+        {
+            "rank": 752,
+            "IForm": "のうりょく",
+            "lemma": "能力"
+        },
+        {
+            "rank": 1847,
+            "IForm": "まける",
+            "lemma": "負ける"
+        },
+        {
+            "rank": 188,
+            "IForm": "せかい",
+            "lemma": "世界"
+        },
+        {
+            "rank": 614,
+            "IForm": "じょうけん",
+            "lemma": "条件"
+        },
+        {
+            "rank": 318,
+            "IForm": "だいがく",
+            "lemma": "大学"
+        },
+        {
+            "rank": 1663,
+            "IForm": "はら",
+            "lemma": "腹"
+        },
+        {
+            "rank": 820,
+            "IForm": "ひがい",
+            "lemma": "被害"
+        },
+        {
+            "rank": 625,
+            "IForm": "すごい",
+            "lemma": "凄い"
+        },
+        {
+            "rank": 1601,
+            "IForm": "ないぶ",
+            "lemma": "内部"
+        },
+        {
+            "rank": 683,
+            "IForm": "ぎょうせい",
+            "lemma": "行政"
+        },
+        {
+            "rank": 504,
+            "IForm": "く",
+            "lemma": "区"
+        },
+        {
+            "rank": 1555,
+            "IForm": "あかい",
+            "lemma": "赤い"
+        },
+        {
+            "rank": 1559,
+            "IForm": "うちゅう",
+            "lemma": "宇宙"
+        },
+        {
+            "rank": 440,
+            "IForm": "かんじ",
+            "lemma": "感じ"
+        },
+        {
+            "rank": 1130,
+            "IForm": "きょうと",
+            "lemma": "キョウト"
+        },
+        {
+            "rank": 233,
+            "IForm": "おおきい",
+            "lemma": "大きい"
+        },
+        {
+            "rank": 1796,
+            "IForm": "くらい",
+            "lemma": "暗い"
+        },
+        {
+            "rank": 1699,
+            "IForm": "ごはん",
+            "lemma": "御飯"
+        },
+        {
+            "rank": 1432,
+            "IForm": "かく",
+            "lemma": "核"
+        },
+        {
+            "rank": 1916,
+            "IForm": "かんてん",
+            "lemma": "観点"
+        },
+        {
+            "rank": 1751,
+            "IForm": "ぐん",
+            "lemma": "群"
+        },
+        {
+            "rank": 681,
+            "IForm": "かんたん",
+            "lemma": "簡単"
+        },
+        {
+            "rank": 606,
+            "IForm": "えらぶ",
+            "lemma": "選ぶ"
+        },
+        {
+            "rank": 710,
+            "IForm": "えがく",
+            "lemma": "描く"
+        },
+        {
+            "rank": 1745,
+            "IForm": "かがく",
+            "lemma": "化学"
+        },
+        {
+            "rank": 1270,
+            "IForm": "うで",
+            "lemma": "腕"
+        },
+        {
+            "rank": 1133,
+            "IForm": "ほんにん",
+            "lemma": "本人"
+        },
+        {
+            "rank": 514,
+            "IForm": "こじん",
+            "lemma": "個人"
+        },
+        {
+            "rank": 1534,
+            "IForm": "いす",
+            "lemma": "椅子"
+        },
+        {
+            "rank": 485,
+            "IForm": "いか",
+            "lemma": "以下"
+        },
+        {
+            "rank": 1026,
+            "IForm": "ははおや",
+            "lemma": "母親"
+        },
+        {
+            "rank": 1204,
+            "IForm": "ひょうじょう",
+            "lemma": "表情"
+        },
+        {
+            "rank": 112,
+            "IForm": "おこなう",
+            "lemma": "行う"
+        },
+        {
+            "rank": 1826,
+            "IForm": "みつかる",
+            "lemma": "見付かる"
+        },
+        {
+            "rank": 1025,
+            "IForm": "だいじょうぶ",
+            "lemma": "大丈夫"
+        },
+        {
+            "rank": 1827,
+            "IForm": "ねつ",
+            "lemma": "熱"
+        },
+        {
+            "rank": 1694,
+            "IForm": "ざ",
+            "lemma": "ザ"
+        },
+        {
+            "rank": 1981,
+            "IForm": "しょるい",
+            "lemma": "書類"
+        },
+        {
+            "rank": 811,
+            "IForm": "なし",
+            "lemma": "無し"
+        },
+        {
+            "rank": 1895,
+            "IForm": "は",
+            "lemma": "葉"
+        },
+        {
+            "rank": 531,
+            "IForm": "むかう",
+            "lemma": "向かう"
+        },
+        {
+            "rank": 1088,
+            "IForm": "つね",
+            "lemma": "常"
+        },
+        {
+            "rank": 492,
+            "IForm": "たいさく",
+            "lemma": "対策"
+        },
+        {
+            "rank": 1249,
+            "IForm": "はらう",
+            "lemma": "払う"
+        },
+        {
+            "rank": 1467,
+            "IForm": "はこぶ",
+            "lemma": "運ぶ"
+        },
+        {
+            "rank": 993,
+            "IForm": "どうぶつ",
+            "lemma": "動物"
+        },
+        {
+            "rank": 616,
+            "IForm": "きゃく",
+            "lemma": "客"
+        },
+        {
+            "rank": 235,
+            "IForm": "きぎょう",
+            "lemma": "企業"
+        },
+        {
+            "rank": 1814,
+            "IForm": "うけとる",
+            "lemma": "受け取る"
+        },
+        {
+            "rank": 1147,
+            "IForm": "ただしい",
+            "lemma": "正しい"
+        },
+        {
+            "rank": 558,
+            "IForm": "いろ",
+            "lemma": "色"
+        },
+        {
+            "rank": 585,
+            "IForm": "れきし",
+            "lemma": "歴史"
+        },
+        {
+            "rank": 1130,
+            "IForm": "いぬ",
+            "lemma": "犬"
+        },
+        {
+            "rank": 19,
+            "IForm": "こと",
+            "lemma": "事"
+        },
+        {
+            "rank": 439,
+            "IForm": "へや",
+            "lemma": "部屋"
+        },
+        {
+            "rank": 1059,
+            "IForm": "さいだい",
+            "lemma": "最大"
+        },
+        {
+            "rank": 1317,
+            "IForm": "かいじょう",
+            "lemma": "会場"
+        },
+        {
+            "rank": 941,
+            "IForm": "しんたい",
+            "lemma": "身体"
+        },
+        {
+            "rank": 1538,
+            "IForm": "しよう",
+            "lemma": "仕様"
+        },
+        {
+            "rank": 313,
+            "IForm": "ぎじゅつ",
+            "lemma": "技術"
+        },
+        {
+            "rank": 1915,
+            "IForm": "にわ",
+            "lemma": "庭"
+        },
+        {
+            "rank": 1114,
+            "IForm": "きじ",
+            "lemma": "記事"
+        },
+        {
+            "rank": 1767,
+            "IForm": "じたい",
+            "lemma": "事態"
+        },
+        {
+            "rank": 698,
+            "IForm": "せいさく",
+            "lemma": "政策"
+        },
+        {
+            "rank": 270,
+            "IForm": "とも",
+            "lemma": "共"
+        },
+        {
+            "rank": 1696,
+            "IForm": "よわい",
+            "lemma": "弱い"
+        },
+        {
+            "rank": 249,
+            "IForm": "もの",
+            "lemma": "者"
+        },
+        {
+            "rank": 1802,
+            "IForm": "せんりゃく",
+            "lemma": "戦略"
+        },
+        {
+            "rank": 1349,
+            "IForm": "しゅうだん",
+            "lemma": "集団"
+        },
+        {
+            "rank": 1004,
+            "IForm": "しめる",
+            "lemma": "占める"
+        },
+        {
+            "rank": 921,
+            "IForm": "いろいろ",
+            "lemma": "色々"
+        },
+        {
+            "rank": 1706,
+            "IForm": "たよう",
+            "lemma": "多様"
+        },
+        {
+            "rank": 847,
+            "IForm": "しきん",
+            "lemma": "資金"
+        },
+        {
+            "rank": 1046,
+            "IForm": "しほん",
+            "lemma": "資本"
+        },
+        {
+            "rank": 1144,
+            "IForm": "きぶん",
+            "lemma": "気分"
+        },
+        {
+            "rank": 1483,
+            "IForm": "がす",
+            "lemma": "ガス"
+        },
+        {
+            "rank": 1192,
+            "IForm": "ちきゅう",
+            "lemma": "地球"
+        },
+        {
+            "rank": 441,
+            "IForm": "まつ",
+            "lemma": "待つ"
+        },
+        {
+            "rank": 420,
+            "IForm": "せんたー",
+            "lemma": "センター"
+        },
+        {
+            "rank": 566,
+            "IForm": "さくひん",
+            "lemma": "作品"
+        },
+        {
+            "rank": 1452,
+            "IForm": "きゅう",
+            "lemma": "旧"
+        },
+        {
+            "rank": 718,
+            "IForm": "そと",
+            "lemma": "外"
+        },
+        {
+            "rank": 1629,
+            "IForm": "こんぴゅーたー",
+            "lemma": "コンピューター"
+        },
+        {
+            "rank": 1736,
+            "IForm": "うすい",
+            "lemma": "薄い"
+        },
+        {
+            "rank": 1712,
+            "IForm": "よういん",
+            "lemma": "要因"
+        },
+        {
+            "rank": 1585,
+            "IForm": "てーぶる",
+            "lemma": "テーブル"
+        },
+        {
+            "rank": 302,
+            "IForm": "かんずる",
+            "lemma": "感ずる"
+        },
+        {
+            "rank": 1481,
+            "IForm": "てき",
+            "lemma": "敵"
+        },
+        {
+            "rank": 1318,
+            "IForm": "たのむ",
+            "lemma": "頼む"
+        },
+        {
+            "rank": 1760,
+            "IForm": "たのしみ",
+            "lemma": "楽しみ"
+        },
+        {
+            "rank": 1241,
+            "IForm": "じち",
+            "lemma": "自治"
+        },
+        {
+            "rank": 1142,
+            "IForm": "やさしい",
+            "lemma": "優しい"
+        },
+        {
+            "rank": 1991,
+            "IForm": "たちあがる",
+            "lemma": "立ち上がる"
+        },
+        {
+            "rank": 135,
+            "IForm": "きく",
+            "lemma": "聞く"
+        },
+        {
+            "rank": 162,
+            "IForm": "め",
+            "lemma": "目"
+        },
+        {
+            "rank": 1000,
+            "IForm": "きまる",
+            "lemma": "決まる"
+        },
+        {
+            "rank": 1636,
+            "IForm": "おっしゃる",
+            "lemma": "仰る"
+        },
+        {
+            "rank": 212,
+            "IForm": "かお",
+            "lemma": "顔"
+        },
+        {
+            "rank": 664,
+            "IForm": "しんぶん",
+            "lemma": "新聞"
+        },
+        {
+            "rank": 836,
+            "IForm": "ことなる",
+            "lemma": "異なる"
+        },
+        {
+            "rank": 1500,
+            "IForm": "さける",
+            "lemma": "避ける"
+        },
+        {
+            "rank": 1580,
+            "IForm": "くすり",
+            "lemma": "薬"
+        },
+        {
+            "rank": 1732,
+            "IForm": "おこる",
+            "lemma": "怒る"
+        },
+        {
+            "rank": 554,
+            "IForm": "ちち",
+            "lemma": "父"
+        },
+        {
+            "rank": 1578,
+            "IForm": "さいむ",
+            "lemma": "債務"
+        },
+        {
+            "rank": 1155,
+            "IForm": "せい",
+            "lemma": "所為"
+        },
+        {
+            "rank": 1116,
+            "IForm": "さけ",
+            "lemma": "酒"
+        },
+        {
+            "rank": 981,
+            "IForm": "むね",
+            "lemma": "胸"
+        },
+        {
+            "rank": 580,
+            "IForm": "じどう",
+            "lemma": "自動"
+        },
+        {
+            "rank": 1471,
+            "IForm": "あいする",
+            "lemma": "愛する"
+        },
+        {
+            "rank": 1428,
+            "IForm": "はんざい",
+            "lemma": "犯罪"
+        },
+        {
+            "rank": 565,
+            "IForm": "じむ",
+            "lemma": "事務"
+        },
+        {
+            "rank": 1566,
+            "IForm": "しゃいん",
+            "lemma": "社員"
+        },
+        {
+            "rank": 1385,
+            "IForm": "あつまる",
+            "lemma": "集まる"
+        },
+        {
+            "rank": 1806,
+            "IForm": "じゅん",
+            "lemma": "順"
+        },
+        {
+            "rank": 678,
+            "IForm": "きじゅん",
+            "lemma": "基準"
+        },
+        {
+            "rank": 816,
+            "IForm": "ぎょうむ",
+            "lemma": "業務"
+        },
+        {
+            "rank": 1043,
+            "IForm": "ちしき",
+            "lemma": "知識"
+        },
+        {
+            "rank": 155,
+            "IForm": "つくる",
+            "lemma": "作る"
+        },
+        {
+            "rank": 100,
+            "IForm": "もつ",
+            "lemma": "持つ"
+        },
+        {
+            "rank": 629,
+            "IForm": "もじ",
+            "lemma": "文字"
+        },
+        {
+            "rank": 728,
+            "IForm": "ぐん",
+            "lemma": "軍"
+        },
+        {
+            "rank": 826,
+            "IForm": "ほうこう",
+            "lemma": "方向"
+        },
+        {
+            "rank": 1027,
+            "IForm": "にる",
+            "lemma": "似る"
+        },
+        {
+            "rank": 299,
+            "IForm": "あいて",
+            "lemma": "相手"
+        },
+        {
+            "rank": 882,
+            "IForm": "かち",
+            "lemma": "価値"
+        },
+        {
+            "rank": 1886,
+            "IForm": "うかがう",
+            "lemma": "伺う"
+        },
+        {
+            "rank": 1634,
+            "IForm": "やく",
+            "lemma": "焼く"
+        },
+        {
+            "rank": 677,
+            "IForm": "ぜい",
+            "lemma": "税"
+        },
+        {
+            "rank": 814,
+            "IForm": "きぼ",
+            "lemma": "規模"
+        },
+        {
+            "rank": 1589,
+            "IForm": "いき",
+            "lemma": "息"
+        },
+        {
+            "rank": 1594,
+            "IForm": "しずか",
+            "lemma": "静か"
+        },
+        {
+            "rank": 871,
+            "IForm": "なす",
+            "lemma": "成す"
+        },
+        {
+            "rank": 1141,
+            "IForm": "うたう",
+            "lemma": "歌う"
+        },
+        {
+            "rank": 391,
+            "IForm": "ちほう",
+            "lemma": "地方"
+        },
+        {
+            "rank": 1242,
+            "IForm": "さいと",
+            "lemma": "サイト"
+        },
+        {
+            "rank": 1415,
+            "IForm": "のう",
+            "lemma": "脳"
+        },
+        {
+            "rank": 1532,
+            "IForm": "かつ",
+            "lemma": "勝つ"
+        },
+        {
+            "rank": 763,
+            "IForm": "むずかしい",
+            "lemma": "難しい"
+        },
+        {
+            "rank": 373,
+            "IForm": "こう",
+            "lemma": "項"
+        },
+        {
+            "rank": 1660,
+            "IForm": "は",
+            "lemma": "歯"
+        },
+        {
+            "rank": 1070,
+            "IForm": "とくちょう",
+            "lemma": "特徴"
+        },
+        {
+            "rank": 1071,
+            "IForm": "ゆるす",
+            "lemma": "許す"
+        },
+        {
+            "rank": 1739,
+            "IForm": "にちじ",
+            "lemma": "日時"
+        },
+        {
+            "rank": 353,
+            "IForm": "すき",
+            "lemma": "好き"
+        },
+        {
+            "rank": 1163,
+            "IForm": "よさん",
+            "lemma": "予算"
+        },
+        {
+            "rank": 1974,
+            "IForm": "いたみ",
+            "lemma": "痛み"
+        },
+        {
+            "rank": 1851,
+            "IForm": "りょうしん",
+            "lemma": "両親"
+        },
+        {
+            "rank": 1455,
+            "IForm": "そんな",
+            "lemma": "そんな"
+        },
+        {
+            "rank": 1756,
+            "IForm": "まま",
+            "lemma": "ママ"
+        },
+        {
+            "rank": 481,
+            "IForm": "りょう",
+            "lemma": "量"
+        },
+        {
+            "rank": 1923,
+            "IForm": "しま",
+            "lemma": "島"
+        },
+        {
+            "rank": 1801,
+            "IForm": "はだ",
+            "lemma": "肌"
+        },
+        {
+            "rank": 409,
+            "IForm": "こくみん",
+            "lemma": "国民"
+        },
+        {
+            "rank": 446,
+            "IForm": "じつ",
+            "lemma": "実"
+        },
+        {
+            "rank": 1148,
+            "IForm": "くみあい",
+            "lemma": "組合"
+        },
+        {
+            "rank": 1433,
+            "IForm": "しょうせつ",
+            "lemma": "小説"
+        },
+        {
+            "rank": 1109,
+            "IForm": "まわり",
+            "lemma": "周り"
+        },
+        {
+            "rank": 920,
+            "IForm": "あらた",
+            "lemma": "新た"
+        },
+        {
+            "rank": 457,
+            "IForm": "のる",
+            "lemma": "乗る"
+        },
+        {
+            "rank": 557,
+            "IForm": "しすてむ",
+            "lemma": "システム"
+        },
+        {
+            "rank": 1342,
+            "IForm": "ようする",
+            "lemma": "要する"
+        },
+        {
+            "rank": 264,
+            "IForm": "じょせい",
+            "lemma": "女性"
+        },
+        {
+            "rank": 1899,
+            "IForm": "えんじん",
+            "lemma": "エンジン"
+        },
+        {
+            "rank": 332,
+            "IForm": "ばしょ",
+            "lemma": "場所"
+        },
+        {
+            "rank": 1720,
+            "IForm": "すうじ",
+            "lemma": "数字"
+        },
+        {
+            "rank": 1725,
+            "IForm": "ぞう",
+            "lemma": "像"
+        },
+        {
+            "rank": 1480,
+            "IForm": "ねっと",
+            "lemma": "ネット"
+        },
+        {
+            "rank": 1559,
+            "IForm": "たばこ",
+            "lemma": "タバコ"
+        },
+        {
+            "rank": 85,
+            "IForm": "つく",
+            "lemma": "つく"
+        },
+        {
+            "rank": 1068,
+            "IForm": "ふくめる",
+            "lemma": "含める"
+        },
+        {
+            "rank": 812,
+            "IForm": "きれい",
+            "lemma": "奇麗"
+        },
+        {
+            "rank": 1009,
+            "IForm": "おどろく",
+            "lemma": "驚く"
+        },
+        {
+            "rank": 1810,
+            "IForm": "かくめい",
+            "lemma": "革命"
+        },
+        {
+            "rank": 1644,
+            "IForm": "もり",
+            "lemma": "森"
+        },
+        {
+            "rank": 1661,
+            "IForm": "にく",
+            "lemma": "肉"
+        },
+        {
+            "rank": 1567,
+            "IForm": "かめら",
+            "lemma": "カメラ"
+        },
+        {
+            "rank": 378,
+            "IForm": "みず",
+            "lemma": "水"
+        },
+        {
+            "rank": 1160,
+            "IForm": "じんぶつ",
+            "lemma": "人物"
+        },
+        {
+            "rank": 1354,
+            "IForm": "ねこ",
+            "lemma": "猫"
+        },
+        {
+            "rank": 848,
+            "IForm": "うれしい",
+            "lemma": "嬉しい"
+        },
+        {
+            "rank": 1978,
+            "IForm": "やきゅう",
+            "lemma": "野球"
+        },
+        {
+            "rank": 1782,
+            "IForm": "もうす",
+            "lemma": "申す"
+        },
+        {
+            "rank": 1819,
+            "IForm": "だんな",
+            "lemma": "旦那"
+        },
+        {
+            "rank": 1867,
+            "IForm": "みどり",
+            "lemma": "緑"
+        },
+        {
+            "rank": 775,
+            "IForm": "やつ",
+            "lemma": "奴"
+        },
+        {
+            "rank": 92,
+            "IForm": "かんがえる",
+            "lemma": "考える"
+        },
+        {
+            "rank": 594,
+            "IForm": "ちがい",
+            "lemma": "違い"
+        },
+        {
+            "rank": 838,
+            "IForm": "あがる",
+            "lemma": "上がる"
+        },
+        {
+            "rank": 1640,
+            "IForm": "ぶもん",
+            "lemma": "部門"
+        },
+        {
+            "rank": 573,
+            "IForm": "かえる",
+            "lemma": "変える"
+        },
+        {
+            "rank": 1303,
+            "IForm": "あん",
+            "lemma": "案"
+        },
+        {
+            "rank": 1784,
+            "IForm": "しゅよう",
+            "lemma": "主要"
+        },
+        {
+            "rank": 337,
+            "IForm": "じょうたい",
+            "lemma": "状態"
+        },
+        {
+            "rank": 1970,
+            "IForm": "しょうこ",
+            "lemma": "証拠"
+        },
+        {
+            "rank": 721,
+            "IForm": "けいさつ",
+            "lemma": "警察"
+        },
+        {
+            "rank": 639,
+            "IForm": "しじょう",
+            "lemma": "市場"
+        },
+        {
+            "rank": 666,
+            "IForm": "のべる",
+            "lemma": "述べる"
+        },
+        {
+            "rank": 1956,
+            "IForm": "すい",
+            "lemma": "水"
+        },
+        {
+            "rank": 1157,
+            "IForm": "でんき",
+            "lemma": "電気"
+        },
+        {
+            "rank": 1406,
+            "IForm": "ゆき",
+            "lemma": "雪"
+        },
+        {
+            "rank": 890,
+            "IForm": "かたる",
+            "lemma": "語る"
+        },
+        {
+            "rank": 669,
+            "IForm": "おこる",
+            "lemma": "起こる"
+        },
+        {
+            "rank": 197,
+            "IForm": "ほう",
+            "lemma": "法"
+        },
+        {
+            "rank": 1331,
+            "IForm": "とうぜん",
+            "lemma": "当然"
+        },
+        {
+            "rank": 1942,
+            "IForm": "しはらい",
+            "lemma": "支払い"
+        },
+        {
+            "rank": 1284,
+            "IForm": "さす",
+            "lemma": "差す"
+        },
+        {
+            "rank": 1594,
+            "IForm": "におい",
+            "lemma": "匂い"
+        },
+        {
+            "rank": 1424,
+            "IForm": "ち",
+            "lemma": "血"
+        },
+        {
+            "rank": 1422,
+            "IForm": "ちゃ",
+            "lemma": "茶"
+        },
+        {
+            "rank": 120,
+            "IForm": "わけ",
+            "lemma": "訳"
+        },
+        {
+            "rank": 1528,
+            "IForm": "おじ",
+            "lemma": "伯父"
+        },
+        {
+            "rank": 1788,
+            "IForm": "こうど",
+            "lemma": "高度"
+        },
+        {
+            "rank": 1449,
+            "IForm": "たいど",
+            "lemma": "態度"
+        },
+        {
+            "rank": 815,
+            "IForm": "しょうずる",
+            "lemma": "生ずる"
+        },
+        {
+            "rank": 934,
+            "IForm": "こうこう",
+            "lemma": "高校"
+        },
+        {
+            "rank": 248,
+            "IForm": "ほんとう",
+            "lemma": "本当"
+        },
+        {
+            "rank": 454,
+            "IForm": "かね",
+            "lemma": "金"
+        },
+        {
+            "rank": 406,
+            "IForm": "かたち",
+            "lemma": "形"
+        },
+        {
+            "rank": 1127,
+            "IForm": "おとな",
+            "lemma": "大人"
+        },
+        {
+            "rank": 792,
+            "IForm": "たのしむ",
+            "lemma": "楽しむ"
+        },
+        {
+            "rank": 1297,
+            "IForm": "ゆうこう",
+            "lemma": "有効"
+        },
+        {
+            "rank": 1585,
+            "IForm": "みんしゅ",
+            "lemma": "民主"
+        },
+        {
+            "rank": 718,
+            "IForm": "すすめる",
+            "lemma": "進める"
+        },
+        {
+            "rank": 1074,
+            "IForm": "たずねる",
+            "lemma": "尋ねる"
+        },
+        {
+            "rank": 201,
+            "IForm": "かいしゃ",
+            "lemma": "会社"
+        },
+        {
+            "rank": 1491,
+            "IForm": "しょうぼう",
+            "lemma": "消防"
+        },
+        {
+            "rank": 260,
+            "IForm": "ほうほう",
+            "lemma": "方法"
+        },
+        {
+            "rank": 289,
+            "IForm": "こ",
+            "lemma": "子"
+        },
+        {
+            "rank": 1220,
+            "IForm": "けーす",
+            "lemma": "ケース"
+        },
+        {
+            "rank": 914,
+            "IForm": "うつくしい",
+            "lemma": "美しい"
+        },
+        {
+            "rank": 1531,
+            "IForm": "のばす",
+            "lemma": "伸ばす"
+        },
+        {
+            "rank": 674,
+            "IForm": "ぎんこう",
+            "lemma": "銀行"
+        },
+        {
+            "rank": 1627,
+            "IForm": "しゅうい",
+            "lemma": "周囲"
+        },
+        {
+            "rank": 1105,
+            "IForm": "え",
+            "lemma": "絵"
+        },
+        {
+            "rank": 1708,
+            "IForm": "うそ",
+            "lemma": "嘘"
+        },
+        {
+            "rank": 662,
+            "IForm": "しりょう",
+            "lemma": "資料"
+        },
+        {
+            "rank": 1846,
+            "IForm": "いかが",
+            "lemma": "如何"
+        },
+        {
+            "rank": 293,
+            "IForm": "かわる",
+            "lemma": "変わる"
+        },
+        {
+            "rank": 925,
+            "IForm": "たいへん",
+            "lemma": "大変"
+        },
+        {
+            "rank": 388,
+            "IForm": "あたらしい",
+            "lemma": "新しい"
+        },
+        {
+            "rank": 411,
+            "IForm": "ていど",
+            "lemma": "程度"
+        },
+        {
+            "rank": 434,
+            "IForm": "すがた",
+            "lemma": "姿"
+        },
+        {
+            "rank": 276,
+            "IForm": "ちがう",
+            "lemma": "違う"
+        },
+        {
+            "rank": 936,
+            "IForm": "りえき",
+            "lemma": "利益"
+        },
+        {
+            "rank": 999,
+            "IForm": "おこす",
+            "lemma": "起こす"
+        },
+        {
+            "rank": 946,
+            "IForm": "かぎる",
+            "lemma": "限る"
+        },
+        {
+            "rank": 1337,
+            "IForm": "きかい",
+            "lemma": "機械"
+        },
+        {
+            "rank": 1799,
+            "IForm": "うごかす",
+            "lemma": "動かす"
+        },
+        {
+            "rank": 1438,
+            "IForm": "ざいさん",
+            "lemma": "財産"
+        },
+        {
+            "rank": 1558,
+            "IForm": "むすぶ",
+            "lemma": "結ぶ"
+        },
+        {
+            "rank": 1181,
+            "IForm": "さいしゅう",
+            "lemma": "最終"
+        },
+        {
+            "rank": 1791,
+            "IForm": "あね",
+            "lemma": "姉"
+        },
+        {
+            "rank": 383,
+            "IForm": "じゅうよう",
+            "lemma": "重要"
+        },
+        {
+            "rank": 577,
+            "IForm": "どう",
+            "lemma": "同"
+        },
+        {
+            "rank": 304,
+            "IForm": "つよい",
+            "lemma": "強い"
+        },
+        {
+            "rank": 1029,
+            "IForm": "おうずる",
+            "lemma": "応ずる"
+        },
+        {
+            "rank": 784,
+            "IForm": "どうろ",
+            "lemma": "道路"
+        },
+        {
+            "rank": 567,
+            "IForm": "しぬ",
+            "lemma": "死ぬ"
+        },
+        {
+            "rank": 1336,
+            "IForm": "てがみ",
+            "lemma": "手紙"
+        },
+        {
+            "rank": 1983,
+            "IForm": "しるす",
+            "lemma": "記す"
+        },
+        {
+            "rank": 822,
+            "IForm": "おく",
+            "lemma": "奥"
+        },
+        {
+            "rank": 130,
+            "IForm": "つかう",
+            "lemma": "使う"
+        },
+        {
+            "rank": 945,
+            "IForm": "こうきょう",
+            "lemma": "公共"
+        },
+        {
+            "rank": 1723,
+            "IForm": "しお",
+            "lemma": "塩"
+        },
+        {
+            "rank": 730,
+            "IForm": "じゅうぶん",
+            "lemma": "十分"
+        },
+        {
+            "rank": 1992,
+            "IForm": "とけい",
+            "lemma": "時計"
+        },
+        {
+            "rank": 1065,
+            "IForm": "のぼる",
+            "lemma": "上る"
+        },
+        {
+            "rank": 927,
+            "IForm": "つれる",
+            "lemma": "連れる"
+        },
+        {
+            "rank": 1064,
+            "IForm": "かわいい",
+            "lemma": "可愛い"
+        },
+        {
+            "rank": 1978,
+            "IForm": "でんしゃ",
+            "lemma": "電車"
+        },
+        {
+            "rank": 1097,
+            "IForm": "もでる",
+            "lemma": "モデル"
+        },
+        {
+            "rank": 255,
+            "IForm": "こえ",
+            "lemma": "声"
+        },
+        {
+            "rank": 1370,
+            "IForm": "くらぶ",
+            "lemma": "クラブ"
+        },
+        {
+            "rank": 1048,
+            "IForm": "きこえる",
+            "lemma": "聞こえる"
+        },
+        {
+            "rank": 1818,
+            "IForm": "ほっかいどう",
+            "lemma": "ホッカイドウ"
+        },
+        {
+            "rank": 995,
+            "IForm": "あそぶ",
+            "lemma": "遊ぶ"
+        },
+        {
+            "rank": 617,
+            "IForm": "こうい",
+            "lemma": "行為"
+        },
+        {
+            "rank": 1952,
+            "IForm": "しょうじょ",
+            "lemma": "少女"
+        },
+        {
+            "rank": 1725,
+            "IForm": "くう",
+            "lemma": "食う"
+        },
+        {
+            "rank": 1547,
+            "IForm": "となり",
+            "lemma": "隣り"
+        },
+        {
+            "rank": 1524,
+            "IForm": "やくしょ",
+            "lemma": "役所"
+        },
+        {
+            "rank": 1194,
+            "IForm": "ながれる",
+            "lemma": "流れる"
+        },
+        {
+            "rank": 1140,
+            "IForm": "きょり",
+            "lemma": "距離"
+        },
+        {
+            "rank": 1443,
+            "IForm": "こうせい",
+            "lemma": "厚生"
+        },
+        {
+            "rank": 739,
+            "IForm": "ともだち",
+            "lemma": "友達"
+        },
+        {
+            "rank": 705,
+            "IForm": "むける",
+            "lemma": "向ける"
+        },
+        {
+            "rank": 1320,
+            "IForm": "あい",
+            "lemma": "愛"
+        },
+        {
+            "rank": 1299,
+            "IForm": "つながる",
+            "lemma": "繋がる"
+        },
+        {
+            "rank": 1354,
+            "IForm": "ひろがる",
+            "lemma": "広がる"
+        },
+        {
+            "rank": 1394,
+            "IForm": "ゆうする",
+            "lemma": "有する"
+        },
+        {
+            "rank": 1583,
+            "IForm": "ほうしき",
+            "lemma": "方式"
+        },
+        {
+            "rank": 832,
+            "IForm": "ば",
+            "lemma": "場"
+        },
+        {
+            "rank": 1159,
+            "IForm": "やすい",
+            "lemma": "安い"
+        },
+        {
+            "rank": 1839,
+            "IForm": "しょうがく",
+            "lemma": "小学"
+        },
+        {
+            "rank": 350,
+            "IForm": "へいせい",
+            "lemma": "平成"
+        },
+        {
+            "rank": 1557,
+            "IForm": "しゅうにゅう",
+            "lemma": "収入"
+        },
+        {
+            "rank": 992,
+            "IForm": "たいぷ",
+            "lemma": "タイプ"
+        },
+        {
+            "rank": 1364,
+            "IForm": "とぶ",
+            "lemma": "飛ぶ"
+        },
+        {
+            "rank": 979,
+            "IForm": "すわる",
+            "lemma": "座る"
+        },
+        {
+            "rank": 1694,
+            "IForm": "ぶんしょ",
+            "lemma": "文書"
+        },
+        {
+            "rank": 347,
+            "IForm": "ながい",
+            "lemma": "長い"
+        },
+        {
+            "rank": 588,
+            "IForm": "さんぎょう",
+            "lemma": "産業"
+        },
+        {
+            "rank": 1277,
+            "IForm": "じじょう",
+            "lemma": "事情"
+        },
+        {
+            "rank": 1611,
+            "IForm": "とう",
+            "lemma": "父"
+        },
+        {
+            "rank": 958,
+            "IForm": "はなれる",
+            "lemma": "離れる"
+        },
+        {
+            "rank": 1535,
+            "IForm": "まとめる",
+            "lemma": "纏める"
+        },
+        {
+            "rank": 1901,
+            "IForm": "せいか",
+            "lemma": "成果"
+        },
+        {
+            "rank": 371,
+            "IForm": "あたま",
+            "lemma": "頭"
+        },
+        {
+            "rank": 1529,
+            "IForm": "ちゅうがく",
+            "lemma": "中学"
+        },
+        {
+            "rank": 1154,
+            "IForm": "ちゅう",
+            "lemma": "注"
+        },
+        {
+            "rank": 1313,
+            "IForm": "でかける",
+            "lemma": "出掛ける"
+        },
+        {
+            "rank": 795,
+            "IForm": "ぐたい",
+            "lemma": "具体"
+        },
+        {
+            "rank": 1997,
+            "IForm": "おかげ",
+            "lemma": "御陰"
+        },
+        {
+            "rank": 603,
+            "IForm": "うまい",
+            "lemma": "旨い"
+        },
+        {
+            "rank": 1232,
+            "IForm": "そら",
+            "lemma": "空"
+        },
+        {
+            "rank": 199,
+            "IForm": "かく",
+            "lemma": "書く"
+        },
+        {
+            "rank": 846,
+            "IForm": "ようす",
+            "lemma": "様子"
+        },
+        {
+            "rank": 1873,
+            "IForm": "まん",
+            "lemma": "マン"
+        },
+        {
+            "rank": 556,
+            "IForm": "ふかい",
+            "lemma": "深い"
+        },
+        {
+            "rank": 1308,
+            "IForm": "がぞう",
+            "lemma": "画像"
+        },
+        {
+            "rank": 1115,
+            "IForm": "さ",
+            "lemma": "差"
+        },
+        {
+            "rank": 1670,
+            "IForm": "ぶたい",
+            "lemma": "舞台"
+        },
+        {
+            "rank": 1790,
+            "IForm": "ぎもん",
+            "lemma": "疑問"
+        },
+        {
+            "rank": 1950,
+            "IForm": "ひょうじゅん",
+            "lemma": "標準"
+        },
+        {
+            "rank": 179,
+            "IForm": "じぎょう",
+            "lemma": "事業"
+        },
+        {
+            "rank": 690,
+            "IForm": "やく",
+            "lemma": "役"
+        },
+        {
+            "rank": 1609,
+            "IForm": "てきせつ",
+            "lemma": "適切"
+        },
+        {
+            "rank": 1896,
+            "IForm": "いし",
+            "lemma": "石"
+        },
+        {
+            "rank": 1901,
+            "IForm": "うむ",
+            "lemma": "生む"
+        },
+        {
+            "rank": 1926,
+            "IForm": "おちつく",
+            "lemma": "落ち着く"
+        },
+        {
+            "rank": 746,
+            "IForm": "たのしい",
+            "lemma": "楽しい"
+        },
+        {
+            "rank": 764,
+            "IForm": "おなじ",
+            "lemma": "同じ"
+        },
+        {
+            "rank": 1053,
+            "IForm": "しろ",
+            "lemma": "白"
+        },
+        {
+            "rank": 956,
+            "IForm": "もうしあげる",
+            "lemma": "申し上げる"
+        },
+        {
+            "rank": 917,
+            "IForm": "かず",
+            "lemma": "数"
+        },
+        {
+            "rank": 833,
+            "IForm": "きづく",
+            "lemma": "気付く"
+        },
+        {
+            "rank": 1982,
+            "IForm": "なやむ",
+            "lemma": "悩む"
+        },
+        {
+            "rank": 785,
+            "IForm": "おもしろい",
+            "lemma": "面白い"
+        },
+        {
+            "rank": 1096,
+            "IForm": "ひよう",
+            "lemma": "費用"
+        },
+        {
+            "rank": 546,
+            "IForm": "しき",
+            "lemma": "式"
+        },
+        {
+            "rank": 441,
+            "IForm": "ちから",
+            "lemma": "力"
+        },
+        {
+            "rank": 619,
+            "IForm": "すすむ",
+            "lemma": "進む"
+        },
+        {
+            "rank": 329,
+            "IForm": "ほけん",
+            "lemma": "保険"
+        },
+        {
+            "rank": 113,
+            "IForm": "とる",
+            "lemma": "取る"
+        },
+        {
+            "rank": 1868,
+            "IForm": "にゅーす",
+            "lemma": "ニュース"
+        },
+        {
+            "rank": 1151,
+            "IForm": "ひどい",
+            "lemma": "酷い"
+        },
+        {
+            "rank": 327,
+            "IForm": "しゃしん",
+            "lemma": "写真"
+        },
+        {
+            "rank": 626,
+            "IForm": "さだめる",
+            "lemma": "定める"
+        },
+        {
+            "rank": 1572,
+            "IForm": "あてる",
+            "lemma": "当てる"
+        },
+        {
+            "rank": 1324,
+            "IForm": "かた",
+            "lemma": "肩"
+        },
+        {
+            "rank": 1686,
+            "IForm": "つきあう",
+            "lemma": "付き合う"
+        },
+        {
+            "rank": 943,
+            "IForm": "し",
+            "lemma": "死"
+        },
+        {
+            "rank": 1416,
+            "IForm": "きょうしつ",
+            "lemma": "教室"
+        },
+        {
+            "rank": 1604,
+            "IForm": "ほうしん",
+            "lemma": "方針"
+        },
+        {
+            "rank": 1582,
+            "IForm": "たんい",
+            "lemma": "単位"
+        },
+        {
+            "rank": 1098,
+            "IForm": "せき",
+            "lemma": "席"
+        },
+        {
+            "rank": 1030,
+            "IForm": "くわしい",
+            "lemma": "詳しい"
+        },
+        {
+            "rank": 1656,
+            "IForm": "つかむ",
+            "lemma": "掴む"
+        },
+        {
+            "rank": 1083,
+            "IForm": "けいこう",
+            "lemma": "傾向"
+        },
+        {
+            "rank": 1209,
+            "IForm": "ひがし",
+            "lemma": "東"
+        },
+        {
+            "rank": 1378,
+            "IForm": "おさえる",
+            "lemma": "押さえる"
+        },
+        {
+            "rank": 1549,
+            "IForm": "ぎいん",
+            "lemma": "議員"
+        },
+        {
+            "rank": 1837,
+            "IForm": "やふー",
+            "lemma": "ヤフー"
+        },
+        {
+            "rank": 1612,
+            "IForm": "でんとう",
+            "lemma": "伝統"
+        },
+        {
+            "rank": 1546,
+            "IForm": "くうき",
+            "lemma": "空気"
+        },
+        {
+            "rank": 1259,
+            "IForm": "まど",
+            "lemma": "窓"
+        },
+        {
+            "rank": 1805,
+            "IForm": "めにゅー",
+            "lemma": "メニュー"
+        },
+        {
+            "rank": 1797,
+            "IForm": "じゅうしょ",
+            "lemma": "住所"
+        },
+        {
+            "rank": 1381,
+            "IForm": "ながれ",
+            "lemma": "流れ"
+        },
+        {
+            "rank": 1781,
+            "IForm": "じょうやく",
+            "lemma": "条約"
+        },
+        {
+            "rank": 885,
+            "IForm": "あける",
+            "lemma": "開ける"
+        },
+        {
+            "rank": 1302,
+            "IForm": "みんかん",
+            "lemma": "民間"
+        },
+        {
+            "rank": 699,
+            "IForm": "たてる",
+            "lemma": "立てる"
+        },
+        {
+            "rank": 344,
+            "IForm": "ぶぶん",
+            "lemma": "部分"
+        },
+        {
+            "rank": 1409,
+            "IForm": "めーかー",
+            "lemma": "メーカー"
+        },
+        {
+            "rank": 1623,
+            "IForm": "とりくむ",
+            "lemma": "取り組む"
+        },
+        {
+            "rank": 1776,
+            "IForm": "であう",
+            "lemma": "出会う"
+        },
+        {
+            "rank": 1384,
+            "IForm": "しゅ",
+            "lemma": "主"
+        },
+        {
+            "rank": 747,
+            "IForm": "ほうじん",
+            "lemma": "法人"
+        },
+        {
+            "rank": 534,
+            "IForm": "だいじん",
+            "lemma": "大臣"
+        },
+        {
+            "rank": 1904,
+            "IForm": "けいたい",
+            "lemma": "形態"
+        },
+        {
+            "rank": 998,
+            "IForm": "やくわり",
+            "lemma": "役割"
+        },
+        {
+            "rank": 494,
+            "IForm": "やま",
+            "lemma": "山"
+        },
+        {
+            "rank": 1387,
+            "IForm": "みつめる",
+            "lemma": "見詰める"
+        },
+        {
+            "rank": 834,
+            "IForm": "ちかい",
+            "lemma": "近い"
+        },
+        {
+            "rank": 152,
+            "IForm": "はいる",
+            "lemma": "入る"
+        },
+        {
+            "rank": 1862,
+            "IForm": "とおい",
+            "lemma": "遠い"
+        },
+        {
+            "rank": 1243,
+            "IForm": "じたい",
+            "lemma": "自体"
+        },
+        {
+            "rank": 1042,
+            "IForm": "たがい",
+            "lemma": "互い"
+        },
+        {
+            "rank": 417,
+            "IForm": "あたえる",
+            "lemma": "与える"
+        },
+        {
+            "rank": 750,
+            "IForm": "ねんきん",
+            "lemma": "年金"
+        },
+        {
+            "rank": 370,
+            "IForm": "からだ",
+            "lemma": "体"
+        },
+        {
+            "rank": 1637,
+            "IForm": "かくす",
+            "lemma": "隠す"
+        },
+        {
+            "rank": 731,
+            "IForm": "むら",
+            "lemma": "村"
+        },
+        {
+            "rank": 1037,
+            "IForm": "くりかえす",
+            "lemma": "繰り返す"
+        },
+        {
+            "rank": 1057,
+            "IForm": "けんり",
+            "lemma": "権利"
+        },
+        {
+            "rank": 334,
+            "IForm": "しょうわ",
+            "lemma": "昭和"
+        },
+        {
+            "rank": 835,
+            "IForm": "ひくい",
+            "lemma": "低い"
+        },
+        {
+            "rank": 1011,
+            "IForm": "たいせい",
+            "lemma": "体制"
+        },
+        {
+            "rank": 527,
+            "IForm": "せいじ",
+            "lemma": "政治"
+        },
+        {
+            "rank": 1117,
+            "IForm": "そん",
+            "lemma": "村"
+        },
+        {
+            "rank": 765,
+            "IForm": "うつ",
+            "lemma": "打つ"
+        },
+        {
+            "rank": 1274,
+            "IForm": "なかま",
+            "lemma": "仲間"
+        },
+        {
+            "rank": 421,
+            "IForm": "いきる",
+            "lemma": "生きる"
+        },
+        {
+            "rank": 449,
+            "IForm": "しゅぎ",
+            "lemma": "主義"
+        },
+        {
+            "rank": 1465,
+            "IForm": "おんなのこ",
+            "lemma": "女の子"
+        },
+        {
+            "rank": 881,
+            "IForm": "さがす",
+            "lemma": "探す"
+        },
+        {
+            "rank": 551,
+            "IForm": "まち",
+            "lemma": "町"
+        },
+        {
+            "rank": 87,
+            "IForm": "じぶん",
+            "lemma": "自分"
+        },
+        {
+            "rank": 1844,
+            "IForm": "いかす",
+            "lemma": "生かす"
+        },
+        {
+            "rank": 244,
+            "IForm": "じだい",
+            "lemma": "時代"
+        },
+        {
+            "rank": 589,
+            "IForm": "てれび",
+            "lemma": "テレビ"
+        },
+        {
+            "rank": 1588,
+            "IForm": "うら",
+            "lemma": "裏"
+        },
+        {
+            "rank": 988,
+            "IForm": "おちる",
+            "lemma": "落ちる"
+        },
+        {
+            "rank": 266,
+            "IForm": "たべる",
+            "lemma": "食べる"
+        },
+        {
+            "rank": 533,
+            "IForm": "もと",
+            "lemma": "元"
+        },
+        {
+            "rank": 1018,
+            "IForm": "しょとく",
+            "lemma": "所得"
+        },
+        {
+            "rank": 1202,
+            "IForm": "ろうじん",
+            "lemma": "老人"
+        },
+        {
+            "rank": 1706,
+            "IForm": "そうご",
+            "lemma": "相互"
+        },
+        {
+            "rank": 1911,
+            "IForm": "しょう",
+            "lemma": "賞"
+        },
+        {
+            "rank": 1523,
+            "IForm": "ぞう",
+            "lemma": "増"
+        },
+        {
+            "rank": 1502,
+            "IForm": "すばらしい",
+            "lemma": "素晴らしい"
+        },
+        {
+            "rank": 110,
+            "IForm": "でる",
+            "lemma": "出る"
+        },
+        {
+            "rank": 1190,
+            "IForm": "ふるい",
+            "lemma": "古い"
+        },
+        {
+            "rank": 1430,
+            "IForm": "ばんぐみ",
+            "lemma": "番組"
+        },
+        {
+            "rank": 1310,
+            "IForm": "せいかく",
+            "lemma": "性格"
+        },
+        {
+            "rank": 989,
+            "IForm": "もくひょう",
+            "lemma": "目標"
+        },
+        {
+            "rank": 472,
+            "IForm": "さいご",
+            "lemma": "最後"
+        },
+        {
+            "rank": 858,
+            "IForm": "つま",
+            "lemma": "妻"
+        },
+        {
+            "rank": 559,
+            "IForm": "しょうひん",
+            "lemma": "商品"
+        },
+        {
+            "rank": 1872,
+            "IForm": "あまい",
+            "lemma": "甘い"
+        },
+        {
+            "rank": 1591,
+            "IForm": "みりょく",
+            "lemma": "魅力"
+        },
+        {
+            "rank": 1628,
+            "IForm": "びじゅつ",
+            "lemma": "美術"
+        },
+        {
+            "rank": 1403,
+            "IForm": "うしろ",
+            "lemma": "後ろ"
+        },
+        {
+            "rank": 1205,
+            "IForm": "ふる",
+            "lemma": "振る"
+        },
+        {
+            "rank": 1718,
+            "IForm": "そだてる",
+            "lemma": "育てる"
+        },
+        {
+            "rank": 1202,
+            "IForm": "せっきょく",
+            "lemma": "積極"
+        },
+        {
+            "rank": 1275,
+            "IForm": "ゆうめい",
+            "lemma": "有名"
+        },
+        {
+            "rank": 661,
+            "IForm": "きめる",
+            "lemma": "決める"
+        },
+        {
+            "rank": 742,
+            "IForm": "いや",
+            "lemma": "嫌"
+        },
+        {
+            "rank": 484,
+            "IForm": "あう",
+            "lemma": "会う"
+        },
+        {
+            "rank": 1922,
+            "IForm": "べーす",
+            "lemma": "ベース"
+        },
+        {
+            "rank": 338,
+            "IForm": "いっぱん",
+            "lemma": "一般"
+        },
+        {
+            "rank": 1132,
+            "IForm": "かーど",
+            "lemma": "カード"
+        },
+        {
+            "rank": 688,
+            "IForm": "かわ",
+            "lemma": "川"
+        },
+        {
+            "rank": 1741,
+            "IForm": "むこう",
+            "lemma": "向こう"
+        },
+        {
+            "rank": 1994,
+            "IForm": "ひとこと",
+            "lemma": "一言"
+        },
+        {
+            "rank": 1095,
+            "IForm": "さいぼう",
+            "lemma": "細胞"
+        },
+        {
+            "rank": 735,
+            "IForm": "ぜんこく",
+            "lemma": "全国"
+        },
+        {
+            "rank": 1260,
+            "IForm": "まなぶ",
+            "lemma": "学ぶ"
+        },
+        {
+            "rank": 1015,
+            "IForm": "こまる",
+            "lemma": "困る"
+        },
+        {
+            "rank": 866,
+            "IForm": "ともなう",
+            "lemma": "伴う"
+        },
+        {
+            "rank": 630,
+            "IForm": "くわえる",
+            "lemma": "加える"
+        },
+        {
+            "rank": 384,
+            "IForm": "たつ",
+            "lemma": "立つ"
+        },
+        {
+            "rank": 767,
+            "IForm": "とうがい",
+            "lemma": "当該"
+        },
+        {
+            "rank": 1278,
+            "IForm": "おう",
+            "lemma": "王"
+        },
+        {
+            "rank": 267,
+            "IForm": "おしえる",
+            "lemma": "教える"
+        },
+        {
+            "rank": 129,
+            "IForm": "たいする",
+            "lemma": "対する"
+        },
+        {
+            "rank": 517,
+            "IForm": "ひじょう",
+            "lemma": "非常"
+        },
+        {
+            "rank": 1564,
+            "IForm": "さいけん",
+            "lemma": "債権"
+        },
+        {
+            "rank": 539,
+            "IForm": "ほん",
+            "lemma": "本"
+        },
+        {
+            "rank": 1440,
+            "IForm": "はつ",
+            "lemma": "初"
+        },
+        {
+            "rank": 1504,
+            "IForm": "おかしい",
+            "lemma": "可笑しい"
+        },
+        {
+            "rank": 687,
+            "IForm": "こえる",
+            "lemma": "越える"
+        },
+        {
+            "rank": 1986,
+            "IForm": "ひりつ",
+            "lemma": "比率"
+        },
+        {
+            "rank": 1078,
+            "IForm": "ぶんや",
+            "lemma": "分野"
+        },
+        {
+            "rank": 1149,
+            "IForm": "ひだり",
+            "lemma": "左"
+        },
+        {
+            "rank": 789,
+            "IForm": "ちゅうおう",
+            "lemma": "中央"
+        },
+        {
+            "rank": 1003,
+            "IForm": "くろ",
+            "lemma": "黒"
+        },
+        {
+            "rank": 381,
+            "IForm": "ひょう",
+            "lemma": "表"
+        },
+        {
+            "rank": 883,
+            "IForm": "しょうねん",
+            "lemma": "少年"
+        },
+        {
+            "rank": 1980,
+            "IForm": "つとめる",
+            "lemma": "努める"
+        },
+        {
+            "rank": 796,
+            "IForm": "かんじゃ",
+            "lemma": "患者"
+        },
+        {
+            "rank": 1887,
+            "IForm": "くうこう",
+            "lemma": "空港"
+        },
+        {
+            "rank": 1315,
+            "IForm": "こし",
+            "lemma": "腰"
+        },
+        {
+            "rank": 613,
+            "IForm": "あわせる",
+            "lemma": "合わせる"
+        },
+        {
+            "rank": 935,
+            "IForm": "ぶろぐ",
+            "lemma": "ブログ"
+        },
+        {
+            "rank": 1328,
+            "IForm": "にし",
+            "lemma": "西"
+        },
+        {
+            "rank": 1831,
+            "IForm": "しんり",
+            "lemma": "心理"
+        },
+        {
+            "rank": 1172,
+            "IForm": "きょうみ",
+            "lemma": "興味"
+        },
+        {
+            "rank": 569,
+            "IForm": "なまえ",
+            "lemma": "名前"
+        },
+        {
+            "rank": 963,
+            "IForm": "こうえん",
+            "lemma": "公園"
+        },
+        {
+            "rank": 598,
+            "IForm": "びょういん",
+            "lemma": "病院"
+        },
+        {
+            "rank": 1396,
+            "IForm": "かんしん",
+            "lemma": "関心"
+        },
+        {
+            "rank": 877,
+            "IForm": "しょう",
+            "lemma": "章"
+        },
+        {
+            "rank": 1379,
+            "IForm": "かべ",
+            "lemma": "壁"
+        },
+        {
+            "rank": 724,
+            "IForm": "じこ",
+            "lemma": "自己"
+        },
+        {
+            "rank": 1985,
+            "IForm": "たまご",
+            "lemma": "卵"
+        },
+        {
+            "rank": 582,
+            "IForm": "のこる",
+            "lemma": "残る"
+        },
+        {
+            "rank": 423,
+            "IForm": "ぶんか",
+            "lemma": "文化"
+        },
+        {
+            "rank": 1921,
+            "IForm": "すたいる",
+            "lemma": "スタイル"
+        },
+        {
+            "rank": 407,
+            "IForm": "じけん",
+            "lemma": "事件"
+        },
+        {
+            "rank": 18,
+            "IForm": "いう",
+            "lemma": "言う"
+        },
+        {
+            "rank": 1727,
+            "IForm": "めぐる",
+            "lemma": "巡る"
+        },
+        {
+            "rank": 505,
+            "IForm": "あるく",
+            "lemma": "歩く"
+        },
+        {
+            "rank": 743,
+            "IForm": "せんもん",
+            "lemma": "専門"
+        },
+        {
+            "rank": 1006,
+            "IForm": "ころす",
+            "lemma": "殺す"
+        },
+        {
+            "rank": 1675,
+            "IForm": "さけぶ",
+            "lemma": "叫ぶ"
+        },
+        {
+            "rank": 237,
+            "IForm": "かのう",
+            "lemma": "可能"
+        },
+        {
+            "rank": 1464,
+            "IForm": "きょうかい",
+            "lemma": "協会"
+        },
+        {
+            "rank": 1787,
+            "IForm": "のぞむ",
+            "lemma": "望む"
+        },
+        {
+            "rank": 1780,
+            "IForm": "くらす",
+            "lemma": "クラス"
+        },
+        {
+            "rank": 1118,
+            "IForm": "むりょう",
+            "lemma": "無料"
+        },
+        {
+            "rank": 1666,
+            "IForm": "ざんねん",
+            "lemma": "残念"
+        },
+        {
+            "rank": 1569,
+            "IForm": "うなずく",
+            "lemma": "頷く"
+        },
+        {
+            "rank": 1076,
+            "IForm": "ざいりょう",
+            "lemma": "材料"
+        },
+        {
+            "rank": 1544,
+            "IForm": "とおる",
+            "lemma": "通る"
+        }
+    ]
+}
