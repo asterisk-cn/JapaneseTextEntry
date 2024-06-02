@@ -174,6 +174,10 @@ public class TextEntryInputs : MonoBehaviour
         }
 
         var v = value.Get<Vector2>();
+        if (cur && isCircleLineCollision(_rightStickInputPrev, v, _stickDeadZoneRelease))
+        {
+            v = new Vector2(0, 0);
+        }
         _rightStickInput = v;
     }
 
@@ -186,7 +190,22 @@ public class TextEntryInputs : MonoBehaviour
         }
 
         var v = value.Get<Vector2>();
+        if (cur && isCircleLineCollision(_leftStickInputPrev, v, _stickDeadZoneRelease))
+        {
+            v = new Vector2(0, 0);
+        }
         _leftStickInput = v;
+    }
+
+    bool isCircleLineCollision(Vector2 A, Vector2 B, float r)
+    {
+        Vector2 AB = B - A;
+        Vector2 AO = -A;
+        float t = Vector2.Dot(AO, AB) / Vector2.Dot(AB, AB);
+        t = Mathf.Clamp(t, 0, 1);
+        Vector2 D = A + t * AB;
+        Vector2 DO = D;
+        return DO.magnitude <= r;
     }
 
     public void OnRightStickButton(InputValue value)
