@@ -174,9 +174,13 @@ public class TextEntryInputs : MonoBehaviour
         }
 
         var v = value.Get<Vector2>();
+        if (v == Vector2.zero)
+        {
+            v = _rightStickInputPrev.normalized * 0.01f;
+        }
         if (cur && isCircleLineCollision(_rightStickInputPrev, v, _stickDeadZoneRelease))
         {
-            v = new Vector2(0, 0);
+            v = _rightStickInputPrev.normalized * 0.01f;
         }
         _rightStickInput = v;
     }
@@ -190,9 +194,13 @@ public class TextEntryInputs : MonoBehaviour
         }
 
         var v = value.Get<Vector2>();
+        if (v == Vector2.zero)
+        {
+            v = _leftStickInputPrev.normalized * 0.01f;
+        }
         if (cur && isCircleLineCollision(_leftStickInputPrev, v, _stickDeadZoneRelease))
         {
-            v = new Vector2(0, 0);
+            v = _leftStickInputPrev.normalized * 0.01f;
         }
         _leftStickInput = v;
     }
@@ -860,9 +868,9 @@ public class TextEntryInputs : MonoBehaviour
             index += 1;
         }
 
-        // Debug.Log("rawX: " + input.x + " rawY: " + input.y + " mag: " + input.magnitude);
-        // Debug.Log("currentAngle: " + currentAngle + " index: " + index);
-        // Debug.Log("rawAngle: " + rawAngle + " globalOffset: " + globalOffset + " angleOffset: " + angleOffset);
+        Debug.Log("rawX: " + input.x + " rawY: " + input.y + " mag: " + input.magnitude);
+        Debug.Log("currentAngle: " + currentAngle + " index: " + index);
+        Debug.Log("rawAngle: " + rawAngle + " globalOffset: " + globalOffset + " angleOffset: " + angleOffset);
         if (index < 0 || index >= _elementCount[(int)radialMenuSetting.radialRL])
         {
             throw new System.ArgumentException("Invalid index " + index);
